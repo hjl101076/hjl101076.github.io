@@ -6,14 +6,14 @@ permalink: /about/
 <div>
 <h1>SKILLS</h1>
 
-LANGUAGE : JAVA, C# , PYTHON
-
-DB : POSTGRESQL, ORACLE, MYSQL
-
-WAS : APACHE, TOMCAT
-
-ANOTHER : HTML, CSS, JQUERY SPA 개발
-          CORDOVA, GIS
+<h3>LANGUAGE</h3> : JAVA, C# , PYTHON
+<p></p>
+<h3>DB</h3> : POSTGRESQL, ORACLE, MYSQL
+<p></p>
+<h3>WAS</h3> : APACHE, TOMCAT
+<p></p>
+<h3>ANOTHER</h3> : HTML, CSS, JQUERY SPA 개발<p></p>
+          CORDOVA, GIS<p></p>
           SVN
 </div>
 
