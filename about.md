@@ -33,7 +33,7 @@ permalink: /about/
 
 <h3>2016~2018 : 중앙대학교 컴퓨터 공학부 편입</h3>
 <ul>
-           <li>사용자 손금 인식 개발 : PYTHON, MYSQL</li>
+           <li>손금 인식 비교  : PYTHON, MYSQL</li>
 </ul>
 <h3>2018~2020 : 중앙대학교 대학원 진학</h3>
 <ul>
@@ -43,8 +43,9 @@ permalink: /about/
 </ul>
 <h3>2020~현재 : SI 회사 근무</h3>
 <ul>
-            <li>도시하천 프로젝트 개발 : JAVA, GIS , JQUERY, POSTGRESQL</li>
-            <li>자연재해, 무인기 팀 프로젝트 <strong>하이브리드 앱</strong> 개발 : <strong>SPA,CORDOVA</strong>, JAVA, GIS,  JQUERY, POSTGRESQL , ORACLE</li>
+            <li>전자정부 프레임워크 기반 사용</li>
+            <li>솔류션 웹 사이트 개발 : JAVA, GIS , JQUERY, POSTGRESQL</li>
+            <li><strong>하이브리드 앱</strong> 개발 : <strong>SPA,CORDOVA</strong>, JAVA, GIS,  JQUERY, POSTGRESQL , ORACLE</li>
             <li>SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발 : C#</li>
 </ul>
           
