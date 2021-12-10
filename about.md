@@ -8,14 +8,15 @@ permalink: /about/
 
 <h3>LANGUAGE</h3> 
 <ul> 
-JAVA, C#, PYTHON  
+<li>JAVA, C#, PYTHON  </li>
 </ul>
 <h3>DB</h3>  
 <ul>
-POSTGRESQL, ORACLE, MYSQL
+<li>POSTGRESQL, ORACLE, MYSQL</li>
 <ul>
 <h3>WAS</h3> 
-<ul> APACHE, TOMCAT
+<ul>
+ <li>APACHE, TOMCAT</li>
 </ul>  
 <h3>ANOTHER</h3>
 <ul>  
