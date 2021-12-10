@@ -3,11 +3,11 @@ layout: page
 title: Skills & About
 permalink: /about/
 ---
-<div style="width:50%; height:200px; float:left;">
+<div style="width:400px; height:200px; float:left;">
 <h1>SKILLS</h1>
 
 <h3>LANGUAGE</h3>  JAVA, C#, PYTHON  
-<span><h3>DB</h3>  POSTGRESQL, ORACLE, MYSQL</span>
+<h3>DB</h3>  POSTGRESQL, ORACLE, MYSQL
 <h3>WAS</h3>  APACHE, TOMCAT  
 <h3>ANOTHER</h3>  HTML, CSS, JS, JQUERY SPA 개발
                 CORDOVA, GIS
@@ -18,6 +18,19 @@ permalink: /about/
           
 </div>
 
+<div style="width:400px; height:200px; border:1px solid green; float:left">
+<h1>ABOUT</h1>
+
+<h3>LANGUAGE</h3>  JAVA, C#, PYTHON  
+<h3>DB</h3>  POSTGRESQL, ORACLE, MYSQL
+<p></p>
+<h3>WAS</h3>  APACHE, TOMCAT  
+<h3>ANOTHER</h3>  HTML, CSS, JS, JQUERY SPA 개발<p></p>CORDOVA, GIS<p></p>SVN
+  
+<p></p>
+        
+          
+</div>
 
 
 
