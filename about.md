@@ -8,7 +8,7 @@ permalink: /about/
 
 <h3>LANGUAGE</h3> 
 <ul> 
-<li>JAVA, C#, PYTHON  </li>
+<li>JAVA, C#, PYTHON, HTML, CSS, JS</li>
 </ul>
 <h3>DB</h3>  
 <ul>
@@ -18,9 +18,9 @@ permalink: /about/
 <ul>
  <li>APACHE, TOMCAT</li>
 </ul>  
-<h3>ANOTHER</h3>
+<h3>LIBRARY & TOOL</h3>
 <ul>  
-<li>HTML, CSS, JS, JQUERY</li>
+<li>JQUERY, JSTL, Ajax</li>
 <li>CORDOVA, GIS</li>
 <li>SVN</li>
 </ul>
