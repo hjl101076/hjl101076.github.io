@@ -33,7 +33,7 @@ permalink: /about/
 
 <h3>2016~2018 : 중앙대학교 컴퓨터 공학부 편입</h3>
 <ul>
-           <li><strong>사용자 손금 인식 개발</strong> : PYTHON, MYSQL</li>
+           <li>사용자 손금 인식 개발 : PYTHON, MYSQL</li>
 </ul>
 <h3>2018~2020 : 중앙대학교 대학원 진학</h3>
 <ul>
