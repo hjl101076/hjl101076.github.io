@@ -23,17 +23,17 @@ permalink: /about/
 <h1>ABOUT</h1>
 
 <h3>2016~2018 : 중앙대학교 컴퓨터 공학부 편입</h3>
-           <p>- 사용자 손금 인식 개발 : PYTHON, MYSQL</p>
+           <p><strong>사용자 손금 인식 개발</strong> : PYTHON, MYSQL</p>
 
 <h3>2018~2020 : 중앙대학교 대학원 진학</h3>
-            <p>- 컴퓨터 공학부 석사 학위 취득</p>
-            <p>- 가상현실(VR) 속에서 사용자와 아바타의 음성 인식 립싱크 : C#, PYTHON</p>
-            <p>- 가상현실 사용자 상체 추정 : PYTHON, MYSQL</p>
+            <p>컴퓨터 공학부 석사 학위 취득</p>
+            <p>가상현실(VR) 속에서 사용자와 아바타의 음성 인식 립싱크 : C#, PYTHON</p>
+            <p>가상현실 사용자 상체 추정 : PYTHON, MYSQL</p>
 
 <h3>2020~현재 : SI 회사 근무</h3>
-            <p>- 도시하천 프로젝트 개발 : JAVA, GIS , JQUERY, POSTGRESQL</p>
-            <p>- 자연재해, 무인기 팀 프로젝트 개발 : SPA, 하이브리드 앱, CORDOVA, JAVA, GIS,  JQUERY, POSTGRESQL , ORACLE</p>
-            <p>- SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발 : C#</p>
+            <p>도시하천 프로젝트 개발 : JAVA, GIS , JQUERY, POSTGRESQL</p>
+            <p>자연재해, 무인기 팀 프로젝트 개발 : SPA, 하이브리드 앱, CORDOVA, JAVA, GIS,  JQUERY, POSTGRESQL , ORACLE</p>
+            <p>SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발 : C#</p>
 
           
 </div>
