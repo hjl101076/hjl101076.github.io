@@ -13,7 +13,7 @@ permalink: /about/
 <h3>DB</h3>  
 <ul>
 <li>POSTGRESQL, ORACLE, MYSQL</li>
-<ul>
+</ul>
 <h3>WAS</h3> 
 <ul>
  <li>APACHE, TOMCAT</li>
@@ -24,9 +24,7 @@ permalink: /about/
 <li>CORDOVA, GIS</li>
 <li>SVN</li>
 </ul>
-  
-
-        
+   
           
 </div>
 
