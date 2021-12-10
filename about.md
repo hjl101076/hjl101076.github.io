@@ -35,8 +35,6 @@ permalink: /about/
             <p>- 자연재해, 무인기 팀 프로젝트 개발 : SPA, 하이브리드 앱, CORDOVA, JAVA, GIS,  JQUERY, POSTGRESQL , ORACLE</p>
             <p>- SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발 : C#</p>
 
-<span>석사 전문연구요원 이재현입니다. 
-
           
 </div>
 
