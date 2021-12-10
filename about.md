@@ -6,13 +6,23 @@ permalink: /about/
 <div style="width: 50%; height: 50%; float:left;">
 <h1>SKILLS</h1>
 
-<h3>LANGUAGE</h3>  JAVA, C#, PYTHON  
-<p></p>
-<h3>DB</h3>  POSTGRESQL, ORACLE, MYSQL
-<p></p>
-<h3>WAS</h3>  APACHE, TOMCAT  
-<p></p>
-<h3>ANOTHER</h3>  HTML, CSS, JS, JQUERY<p></p>CORDOVA, GIS<p></p>SVN
+<h3>LANGUAGE</h3> 
+<ul> 
+JAVA, C#, PYTHON  
+</ul>
+<h3>DB</h3>  
+<ul>
+POSTGRESQL, ORACLE, MYSQL
+<ul>
+<h3>WAS</h3> 
+<ul> APACHE, TOMCAT
+</ul>  
+<h3>ANOTHER</h3>
+<ul>  
+<li>HTML, CSS, JS, JQUERY</li>
+<li>CORDOVA, GIS</li>
+<li>SVN</li>
+</ul>
   
 
         
