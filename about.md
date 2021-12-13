@@ -31,17 +31,17 @@ permalink: /about/
 <div style="width: 50%; height: 50%;  float:left">
 <h1>ABOUT</h1>
 
-<h3>2016~2018 : 중앙대학교 컴퓨터 공학부 편입</h3>
+<h3>2016~2018 : 중앙대학교 컴퓨터 공학부 졸업</h3>
 <ul>
            <li>손금 인식 비교  : PYTHON, MYSQL</li>
 </ul>
-<h3>2018~2020 : 중앙대학교 대학원 진학</h3>
+<h3>2018~2020 : 중앙대학교 대학원 졸업</h3>
 <ul>
             <li>컴퓨터 공학부 석사 학위 취득 </li>
             <li>가상현실(VR) 사용자 상체 추정 : PYTHON, MYSQL</li>
-            <li>가상현실 사용자와 아바타의 음성 인식 립싱크 개발: C#, PYTHON</li>
+            <li>대화형 가상현실 얼굴 및 상체 동기화: C#, PYTHON</li>
 </ul>
-<h3>2020~현재 : SI 회사 근무</h3>
+<h3>2020~현재 : SI 회사</h3>
 <ul>
             <li>전자정부 프레임워크 기반 웹 및 하이브리드 앱 GIS 시스템 개발</li>
             <li>솔류션 웹 사이트 개발 : JAVA, GIS , JQUERY, POSTGRESQL</li>
