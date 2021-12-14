@@ -38,11 +38,11 @@ permalink: /about/
 <h3>2018~2020 : 중앙대학교 대학원 졸업</h3>
 <ul>
             <li>컴퓨터 공학부 석사 학위 취득 </li>
-            <li>가상현실(VR) 사용자 상체 추정 및 얼굴 동기화: C#, PYTHON, MYSQL</li>
+            <li><strong>가상현실(VR) 사용자 상체 추정 및 얼굴 동기화: C#, PYTHON, MYSQL</strong></li>
 </ul>
 <h3>2020~현재 : SI 회사</h3>
 <ul>
-            <li>전자정부 프레임워크 기반 웹 및 하이브리드 앱 GIS 시스템 개발</li>
+            <li><strong>전자정부 프레임워크 기반 웹 및 하이브리드 앱 GIS 시스템 개발</strong></li>
             <li>솔류션 웹 사이트 개발 : JAVA, GIS , JQuery, PostgreSQL</li>
             <li>하이브리드 앱 개발 : Cordova, JAVA, GIS,  JQuery, PostgreSQL , Oracle</li>
             <li>SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발 : C#</li>
