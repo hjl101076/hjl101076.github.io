@@ -43,8 +43,8 @@ permalink: /about/
 <h3>2020~현재 : SI 회사</h3>
 <ul>
             <li>전자정부 프레임워크 기반 웹 및 하이브리드 앱 GIS 시스템 개발</li>
-            <li>솔류션 웹 사이트 개발 : JAVA, GIS , JQUERY, POSTGRESQL</li>
-            <li>SPA 방식 하이브리드 앱 개발 : CORDOVA, JAVA, GIS,  JQUERY, POSTGRESQL , ORACLE</li>
+            <li>솔류션 웹 사이트 개발 : JAVA, GIS , JQuery, PostgreSQL</li>
+            <li>하이브리드 앱 개발 : Cordova, JAVA, GIS,  JQuery, PostgreSQL , Oracle</li>
             <li>SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발 : C#</li>
 </ul>
           
