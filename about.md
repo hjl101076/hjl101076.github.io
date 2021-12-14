@@ -33,13 +33,12 @@ permalink: /about/
 
 <h3>2016~2018 : 중앙대학교 컴퓨터 공학부 졸업</h3>
 <ul>
-           <li>손금 인식 비교  : PYTHON, MYSQL</li>
+           <li>손금 인식 개발: PYTHON, MYSQL</li>
 </ul>
 <h3>2018~2020 : 중앙대학교 대학원 졸업</h3>
 <ul>
             <li>컴퓨터 공학부 석사 학위 취득 </li>
-            <li>가상현실(VR) 사용자 상체 추정 : PYTHON, MYSQL</li>
-            <li>대화형 가상현실 얼굴 및 상체 동기화: C#, PYTHON</li>
+            <li>가상현실 사용자 상체 추정과 멀티 대화형 가상현실 얼굴 동기화: C#, PYTHON, MYSQL</li>
 </ul>
 <h3>2020~현재 : SI 회사</h3>
 <ul>
