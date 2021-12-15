@@ -21,7 +21,7 @@ permalink: /about/
 <h3>LIBRARY & TOOL</h3>
 <ul>  
 <li>JQUERY, JSTL, AJAX</li>
-<li>CORDOVA, GIS</li>
+<li>CORDOVA</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>SVN</li>
 </ul>
