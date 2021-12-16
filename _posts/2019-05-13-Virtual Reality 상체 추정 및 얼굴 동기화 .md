@@ -1,5 +1,6 @@
 ---
 layout: post
+featured-img: vr-1
 ---
 
 
