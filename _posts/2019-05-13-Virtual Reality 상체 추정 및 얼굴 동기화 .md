@@ -2,4 +2,17 @@
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+## 목적 
+
+> 
+
+## 개요
+
+
+## 구현
+> ### AVATAR 상체 동기화 
+> ### 사용자 음성 처리 및 AVATAR 얼굴 동기화 
+
+## 결과
+> 
