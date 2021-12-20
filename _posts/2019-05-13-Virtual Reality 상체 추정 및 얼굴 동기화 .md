@@ -13,7 +13,7 @@ featured-img: vr-1
 <div>
 <h2>3. 구현</h2>
 <h3 style="margin-left: 40px;">1) AVATAR 상체 동기화 </h3>
-<h4 style="margin-left: 50px;">a) AVATAR 상체 동기화 </h3>
+<h4 style="margin-left: 50px;">a) AVATAR 상체 동기화 </h4>
     <div>
     <img src="/assets/img/posts/hand-sub1.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
     <img src="/assets/img/posts/hand-sub1-1.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
