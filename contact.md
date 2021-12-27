@@ -4,6 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
+### 정보
+
+
 **이름 : 이재현**
 
 **연락처 : +82) 010-8139-9792**
