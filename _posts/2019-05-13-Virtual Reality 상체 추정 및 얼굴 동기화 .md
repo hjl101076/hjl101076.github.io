@@ -66,11 +66,11 @@ featured-img: vr-1
 <h2>4. 결과</h2>
 <h3 style="margin-left: 40px;">1) Questions</h3>
     <div>
-        <img src="/assets/img/posts/vr-sub4.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+        <img src="/assets/img/posts/vr-sub5.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
      <ul>
-      <li>사용자와 인터렉션의 차이에 대한 몰입감 측정</li>
+      <li>사용자와 인터렉션의 차이에 대한 몰입감 및 시각화,인식률 측정</li>
       <br>
-      <li>시각화 및 인식률 측정</li>
+      <li>E1~E6 : 사용자와 인터렉션 반응 속도, E7~E9 : 실험 참여, E10~E16, Q1~Q5: 강의, 질문 </li>
       <br>
       <li>남성 11명, 여성 7명 총 18명 설문 조사</li>
       <br>      
@@ -81,15 +81,17 @@ featured-img: vr-1
 
 <h3 style="margin-left: 40px;">2) 실험 환경</h3>
     <div>
-        <img src="/assets/img/posts/vr-sub4.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+        <img src="/assets/img/posts/vr-sub6.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
      <ul>
-      <li>H1,H2,H3을 확인하기 위한 1인칭 시점과 RPC(Remote Procedure Calls) 통신 멀티 유저 환경</li>
+      <li>H1,H2,H3을 확인하기 위하여 A1,A2,A3 3가지의 아바타를 1인칭 시점과 RPC(Remote Procedure Calls) 통신 멀티 유저 환경에서 적용</li>
       <br>
       <li>H1: 사용자 본인과 동기화된 가상의 아바타가 미러링 될 때, 얼굴의 입 모양 또한 동기화되어 표현되는 경우에 몰입감이 증대된다.</li>
       <br>
       <li>H2: 다중 사용자가 공동의 가상환경을 공유할 때, 타인을 시각화한 아바타의 자세뿐만 아니라 얼굴 입모양까지 동기화될 때 몰입감이 증대된다.</li>
       <br>
       <li>H3: 다중 사용자 가상현실 체험 시스템에서, 정보를 전달하는 아바타의 립싱크가 맞는 경우가 인식률이 높다.</li>
+      <br> 
+      <li>A1: 입모양이 정확하게 움직이는 아바타, A2: 입모양이 움직이지 않는 아바타, A3: 본 논문 아바타</li>
       <br>     
     </ul>
    </div>
@@ -98,14 +100,18 @@ featured-img: vr-1
 
 <h3 style="margin-left: 40px;">3) 만족도</h3>
     <div>
-        <img src="/assets/img/posts/vr-sub4.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+        <img src="/assets/img/posts/vr-sub7.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+        <img src="/assets/img/posts/vr-sub8.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
      <ul>
-      <li>9개 발음 기호로 동적 입 애니메이션 구축</li>
+      <li>혼합 ANOVA 테스트를 이용하여 데이터 분석</li>
       <br>
-      <li>초성이 순음(ㅁ,ㅂ,ㅍ)인 경우에는 도입 부분의 입을 다문 모습 추가</li>
+      <li>H1,H2 환경에서의 A3,A1의 평균 유의확률(𝜌) 0.01, A3,A2의 평균 𝜌는 0.006</li>
       <br>
-      <li>아바타를 사람과 비슷하게 만들기 위해서 눈 깜빡임 적용</li>
+      <li>H3 환경에서의 A1,A3 => 𝜌=.028  A2,A3 => 𝜌=.002</li>
       <br>      
+      <li>모든 결과는  𝜌<=0.05이므로 본 논문의 기술이 효과적</li>
+      <br>    
+      
     </ul>
    </div>
 
