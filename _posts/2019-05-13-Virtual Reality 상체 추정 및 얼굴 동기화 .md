@@ -25,7 +25,21 @@ featured-img: vr-1
     </ul>
    </div>
 
-<h3 style="margin-left: 40px;">2) 사용자 음성 처리 및 AVATAR 얼굴 동기화 </h3>
+<h3 style="margin-left: 40px;">2) 사용자 음성 처리  </h3>
+    <div>
+        <img src="/assets/img/posts/vr-sub2.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+        <img src="/assets/img/posts/vr-sub3.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+     <ul>
+      <li>STT(Speech-To-Text) 변환하</li>
+      <br>
+      <li>HMD,컨트롤러를 통한 아바타 scale 조절하여 초기 신체 사이즈 셋업</li>
+      <br>
+      <li>컨트롤러 이용하여 목의 방향 조정</li>
+      <br>      
+    </ul>
+   </div>
+
+<h3 style="margin-left: 40px;">3) AVATAR 얼굴 동기화 </h3>
     <div>
         <img src="/assets/img/posts/vr-sub1.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
      <ul>
@@ -37,8 +51,6 @@ featured-img: vr-1
       <br>      
     </ul>
    </div>
-
-
 
 
 <div>
