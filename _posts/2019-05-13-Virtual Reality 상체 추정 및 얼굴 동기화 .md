@@ -8,6 +8,7 @@ featured-img: vr-1
 > 대화형 가상 현실 어플리케이션의 증가로 인해, 사용자와 일치하게 움직이는 아바타는 사용자의 **몰입감**를 높이는 데 도움. 몰입감 향상을 위해 **상반신 동기화**와 함께, 가상의 입술을 **애니메이션화 및 말하는 얼굴***을 가상현실에서 적용하는 방법을 제안
 
 ## 2. 개요
+  <img src="/assets/img/posts/vr-1_main.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
 > 가상 현실 단일 사용자 및 다중 사용자 어플리케이션 아바타 동기화를 위해 HMD(Head Mounted Display)와 컨트롤러, 오디오로 사용자의 얼굴과 상반신 표현
 
 <div>
@@ -83,7 +84,7 @@ featured-img: vr-1
     <div>
         <img src="/assets/img/posts/vr-sub6.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
      <ul>
-      <li>H1,H2,H3을 확인하기 위하여 A1,A2,A3 3가지의 아바타를 1인칭 시점과 RPC(Remote Procedure Calls) 통신 멀티 유저 환경에서 적용</li>
+      <li>H1,H2,H3을 확인하기 위하여 A1,A2,A3 총 3가지의 아바타를 1인칭 시점과 RPC(Remote Procedure Calls) 통신 멀티 유저 환경에서 적용</li>
       <br>
       <li>H1: 사용자 본인과 동기화된 가상의 아바타가 미러링 될 때, 얼굴의 입 모양 또한 동기화되어 표현되는 경우에 몰입감이 증대된다.</li>
       <br>
