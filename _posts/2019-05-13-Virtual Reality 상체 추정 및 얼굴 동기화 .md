@@ -27,14 +27,24 @@ featured-img: vr-1
 
 <h3 style="margin-left: 40px;">2) 사용자 음성 처리  </h3>
     <div>
-        <img src="/assets/img/posts/vr-sub2.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
-        <img src="/assets/img/posts/vr-sub3.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+        <img src="/assets/img/posts/vr-sub2.jpg"  width="50%" height="50%" style="margin-left: 55px; "/>
      <ul>
-      <li>STT(Speech-To-Text) 변환하</li>
+      <li>STT(Speech-To-Text) 알고리즘 통해 사용자 음성 데이터 획득</li>
       <br>
-      <li>HMD,컨트롤러를 통한 아바타 scale 조절하여 초기 신체 사이즈 셋업</li>
+      <li>어느 나라의 언이인지 분석하여 한국어 발음으로 변환</li>
       <br>
-      <li>컨트롤러 이용하여 목의 방향 조정</li>
+      <li></li>
+      <br>      
+    </ul>
+   </div>
+   <div>
+        <img src="/assets/img/posts/vr-sub3.jpg"  width="50%" height="50%" style="margin-left: 55px; "/>
+     <ul>
+      <li>음절의 개수로 발화 시간 추정</li>
+      <br>
+      <li>평균 발화 시간 : 𝑇_𝑀, 발화 시작 시간 : 𝑇_𝑠, 끝 시간 : 𝑇_𝑒, 음절 개수 : N</li>
+      <br>
+      <li>발화 시간 : 𝑇_𝑀=(𝑇_𝑒  −𝑇_𝑠 )  / N</li>
       <br>      
     </ul>
    </div>
