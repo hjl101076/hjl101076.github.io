@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+<img src="/assets/img/posts/myface.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
 <div style="width: 50%; height: 50%; float:left;">
 <h3>이름 : 이재현</h3>
 <br>
