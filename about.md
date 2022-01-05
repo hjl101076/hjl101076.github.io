@@ -41,7 +41,7 @@ permalink: /about/
             <li>컴퓨터 공학부 응용 소프트웨어학과 석사 학위</li>
             <li><strong>가상현실(VR) 사용자 상체 추정 및 얼굴 동기화: C#, PYTHON, MYSQL</strong></li>
 </ul>
-<h3>2020~현재 : SI 회사</h3>
+<h3>2020~현재 : 회사 내 시스템 개발</h3>
 <ul>
             <li><strong>전자정부 프레임워크 기반 웹 및 하이브리드 앱 GIS 시스템 개발</strong></li>
             <li>솔류션 웹 사이트 개발 : JAVA, GIS , JS, PostgreSQL</li>
