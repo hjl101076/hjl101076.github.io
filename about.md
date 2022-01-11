@@ -44,10 +44,10 @@ permalink: /about/
 </ul>
 <h3>2020~현재 : 시스템 개발</h3>
 <ul>
-            <li><strong>전자정부 프레임워크 기반 솔류션 웹 및 하이브리드 앱 개발</strong></li>
+            <li><strong>전자정부 프레임워크 기반 솔류션 및 하이브리드 앱 개발</strong></li>
             <li>GIS 기반 웹,모바일 시스템 개발</li>
             <li>프론트 엔드 퍼블 및 스크립트 작업</li>
-            <li>백엔드 서버 구축 </li>
+            <li>Spring 백엔드 서버 구축 </li>
             <li>dbf <=> shp 파일 변환 및 보고서 템플릿 개발</li>
 </ul>
           
