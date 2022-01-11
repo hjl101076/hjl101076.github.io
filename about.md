@@ -48,7 +48,7 @@ permalink: /about/
             <li>GIS 기반 웹,모바일 시스템 개발</li>
             <li>프론트 엔드 퍼블 및 스크립트 작업</li>
             <li>백엔드 서버 구축 </li>
-            <li>SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발</li>
+            <li>dbf <=> shp 파일 변환 및 보고서 템플릿 개발</li>
 </ul>
           
 </div>
