@@ -47,7 +47,7 @@ permalink: /about/
             <li><strong>전자정부 프레임워크 기반 솔류션 및 하이브리드 앱 개발</strong></li>
             <li>GIS 기반 웹,모바일 시스템 개발</li>
             <li>프론트 엔드 퍼블 및 스크립트 작업</li>
-            <li>Spring 백엔드 서버 구축 </li>
+            <li>백엔드 서버 구축 및 DB 설계 ~ UI 작업 </li>
             <li>dbf <=> shp 파일 변환 및 보고서 템플릿 개발</li>
             <li>추후 개발 : react를 이용한 웹, 앱 시스템 개발</li>
 </ul>
