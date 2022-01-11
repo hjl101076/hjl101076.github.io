@@ -34,19 +34,21 @@ permalink: /about/
 
 <h3>2016~2018 : 중앙대학교 컴퓨터 공학부 졸업</h3>
 <ul>
-           <li>손금 인식 개발: PYTHON, MYSQL</li>
+           <li>손금 인식 개발</li>
 </ul>
 <h3>2018~2020 : 중앙대학교 대학원 졸업</h3>
 <ul>
             <li>컴퓨터 공학부 응용 소프트웨어학과 석사 학위</li>
-            <li><strong>가상현실(VR) 사용자 상체 추정 및 얼굴 동기화: C#, PYTHON, MYSQL</strong></li>
+            <li><strong>가상현실(VR) 사용자 상체 추정 및 얼굴 동기화 </strong></li>
+            <li>컴퓨터 그래픽스 학회 논문 : 가상현실 사용자 립싱크 개발 </li>
 </ul>
-<h3>2020~현재 : 회사 내 시스템 개발</h3>
+<h3>2020~현재 : 시스템 개발</h3>
 <ul>
-            <li><strong>전자정부 프레임워크 기반 웹 및 하이브리드 앱 GIS 시스템 개발</strong></li>
-            <li>솔류션 웹 사이트 개발 : JAVA, GIS , JS, PostgreSQL</li>
-            <li>하이브리드 앱 개발 : Cordova, JAVA, GIS,  JS, PostgreSQL , Oracle</li>
-            <li>SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발 : C#</li>
+            <li><strong>전자정부 프레임워크 기반 솔류션 웹 및 하이브리드 앱 개발</strong></li>
+            <li>GIS 기반 웹,모바일 시스템 개발</li>
+            <li>프론트 엔드 퍼블 및 스크립트 작업</li>
+            <li>백엔드 서버 구축 </li>
+            <li>SHPtoTXT, TXTtoSHP, 보고서 템플릿 개발</li>
 </ul>
           
 </div>
