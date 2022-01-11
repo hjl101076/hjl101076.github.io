@@ -20,7 +20,7 @@ permalink: /about/
 </ul>  
 <h3>LIBRARY & TOOL</h3>
 <ul>  
-<li>JQUERY, JSTL, AJAX</li>
+<li>JQUERY, JSTL, AJAX , Bootstrap</li>
 <li>CORDOVA</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>SVN</li>
