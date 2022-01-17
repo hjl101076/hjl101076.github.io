@@ -23,7 +23,7 @@ permalink: /about/
 <li>JQUERY, JSTL, AJAX , Bootstrap</li>
 <li>CORDOVA</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
-<li>SVN</li>
+<li>SVN,GIT</li>
 </ul>
    
           
