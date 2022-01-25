@@ -21,7 +21,7 @@ permalink: /about/
 <h3>LIBRARY & TOOL</h3>
 <ul>  
 <li>JQUERY, JSTL, AJAX , Bootstrap</li>
-<li>전자정부 프레임워크, Spring, Spring boot</li>
+<li>eGovFrameWork, Spring, Spring boot</li>
 <li>CORDOVA</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>SVN,GIT</li>
