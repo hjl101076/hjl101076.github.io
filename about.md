@@ -20,7 +20,7 @@ permalink: /about/
 </ul>  
 <h3>LIBRARY & TOOL</h3>
 <ul>  
-<li>JQUERY, JSTL, AJAX , Bootstrap</li>
+<li>JQUERY, JSTL, AJAX , Bootstrap, Mybatis</li>
 <li>eGovFrameWork, Spring, Spring boot</li>
 <li>CORDOVA</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
