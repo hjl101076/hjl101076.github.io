@@ -16,11 +16,11 @@ permalink: /about/
 </ul>
 <h3>WAS</h3> 
 <ul>
- <li>APACHE, TOMCAT</li>
+ <li>APACHE, TOMCAT , JEUS</li>
 </ul>  
 <h3>LIBRARY & TOOL</h3>
 <ul>  
-<li>JQUERY, JSTL, AJAX , Bootstrap, Mybatis</li>
+<li>JQUERY, JSTL, AJAX , Bootstrap, Ibatis</li>
 <li>eGovFrameWork, Spring, Spring boot</li>
 <li>CORDOVA</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
@@ -35,7 +35,7 @@ permalink: /about/
 
 <h3>2016~2018 : 중앙대학교 컴퓨터 공학부 졸업</h3>
 <ul>
-           <li><strong>보안성을 높이기 위한 손금 인식개발</strong></li>
+           <li><strong>사용자 식별을 위한 손금 인식개발</strong></li>
 </ul>
 <h3>2018~2020 : 중앙대학교 대학원 졸업</h3>
 <ul>
@@ -43,14 +43,14 @@ permalink: /about/
             <li><strong>가상현실(VR) 사용자 상체 추정 및 얼굴 동기화 </strong></li>
             <li>컴퓨터 그래픽스 학회 논문 : 가상현실 사용자 립싱크 개발 </li>
 </ul>
-<h3>2020~현재 : 시스템 개발</h3>
+<h3>2020~현재 : 통합 시스템 개발</h3>
 <ul>
             <li><strong>전자정부 프레임워크 기반 솔류션 및 하이브리드 앱 개발</strong></li>
             <li>GIS 기반 웹, 앱 시스템 개발</li>
             <li>프론트 엔드 퍼블 및 스크립트 작업</li>
             <li>백엔드 서버 구축 및 DB 모델링 </li>
             <li>dbf <=> shp 파일 변환 및 보고서 템플릿 개발</li>
-            <li><strong>추후 개발 : react를 이용한 웹, 앱 시스템 개발</strong></li>
+            <li><strong>추후 개발 : flutter를 이용한 웹, 앱 시스템 개발</strong></li>
 </ul>
           
 </div>
