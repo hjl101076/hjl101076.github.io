@@ -23,7 +23,7 @@ permalink: /about/
 <li>JQUERY, JSTL, AJAX , Bootstrap, Mybatis</li>
 <li>eGovFrameWork, Spring, Spring boot</li>
 <li>CORDOVA</li>
-<li>GeoServer, OpenLayer</li> 
+<li>GeoServer, OpenLayer, PostGIS</li> 
 <li>SVN,GIT</li>
 </ul>
    
