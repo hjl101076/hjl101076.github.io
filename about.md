@@ -12,20 +12,20 @@ permalink: /about/
 </ul>
 <h3>DB</h3>  
 <ul>
-<li>POSTGRESQL, ORACLE, Maria </li>
+<li>PostgreSQL, Oracle, Maria </li>
 </ul>
 <h3>WAS</h3> 
 <ul>
- <li>APACHE TOMCAT, JEUS</li>
+ <li>Apache Tomcat, JEUS</li>
 </ul>  
 <h3>LIBRARY & TOOL</h3>
 <ul>  
-<li>JQUERY, JSTL, Bootstrap, Ibatis , Thymeleaf </li>
+<li>JQuery, JSTL, Bootstrap, Ibatis , Thymeleaf </li>
 <li>eGovFrameWork, Spring, Spring boot</li>
-<li>CORDOVA</li>
+<li>Cordova</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>Maven, Gradle</li> 
-<li>SVN,GIT</li>
+<li>svn,git</li>
 </ul>
    
           
