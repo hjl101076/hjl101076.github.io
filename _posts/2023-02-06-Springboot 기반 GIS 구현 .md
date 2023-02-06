@@ -7,22 +7,22 @@ featured-img: gismain
 ## 기술 스택 
 <h3 style="margin-left: 40px;" > node.js 18.12.1 / spring boot 2.7.8   / gradle / jar   
 <br> bootstrap 5.2 / Maria / Thymeleaf
-<br> geoserver  / openlayer</h3>
+<br> geoserver  / openlayers</h3>
 
 
 <div>
 <h2>구현</h2>
-<h3 style="margin-left: 40px;">1) 위치 권한</h3>
+<h3 style="margin-left: 40px;">1) GPS 위치 권한</h3>
     <div>
     <img src="/assets/img/posts/1.위치 권한 o.png"  width="50%" height="50%" style="margin-left: 33px; "/>
     <img src="/assets/img/posts/1.위치 권한 x.png"  width="50%" height="50%" style="margin-left: 33px; "/>
         <img src="/assets/img/posts/1.위치 권한 여부.png"  width="50%" height="50%" style="margin-left: 33px; "/>
      <ul>
-      <li>프로그램 시작 시 위치 권한 여부 확인</li>
+      <li>위치 권한 허용 - 사용자의 위치로 확대 , 위치 권한 반대 - 지도 전체를 보여줄 수 있게 설정</li>
       <br>
-      <li>위치 권한 허용할 시, 사용자의 위치로 확대</li>
+      <li>현재 위치 정보를 알 수 있도록 함수 getCurrentPosition() 사용</li>
       <br>
-      <li>권한을 거부하면 지도 전체를 보여줄 수 있게 설정</li>
+      <li>함수 centerMap() 화면 확대 및 함수 setGeoLocation() 위치 저장</li>
       <br>
     </ul>
    </div>
