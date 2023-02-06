@@ -5,36 +5,24 @@ featured-img: gismain
 
 
 ## 1. 기술 스택 
-> node.js 18.12.1 / spring boot 2.7.8   / gradle / jar   
-> bootstrap 5.2 / Maria / Thymeleaf
-> geoserver  / openlayer
+<h3> node.js 18.12.1 / spring boot 2.7.8   / gradle / jar   
+<br> bootstrap 5.2 / Maria / Thymeleaf
+<br> geoserver  / openlayer</h3>
 
 
-## 2. 구현
 <div>
 <h2>3. 구현</h2>
 <h3 style="margin-left: 40px;">1) 위치 권한</h3>
     <div>
-    <img src="/assets/img/posts/hand-sub1.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/hand-sub1-1.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/1.위치 권한 o.jpg"  width="50%" height="50%" style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/1.위치 권한 x.jpg"  width="50%" height="50%" style="margin-left: 33px; "/>
+        <img src="/assets/img/posts/1.위치 권한 여부.jpg"  width="50%" height="50%" style="margin-left: 33px; "/>
      <ul>
-      <li>Contour 알고리즘을 통해 영역을 분리, 저장</li>
+      <li>프로그램 시작 시 위치 권한 여부 확인</li>
       <br>
-      <li>ConvexHull 알고리즘을 이용하여 손가락 사이의 골의  좌표를 획득</li>
+      <li>위치 권한 허용할 시, 사용자의 위치로 확대</li>
       <br>
-      <li>좌표 계산을 통해 ROI(Region Of Interest)를 실행</li>
-      <br>
-    </ul>
-   </div>
-   <div>
-    <img src="/assets/img/posts/hand-sub2.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/hand-sub1-2.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
-      <ul >
-      <li>Canny 함수로 가장자리를 감지하여 Edge 검출</li>
-      <br>
-      <li>Sobel 함수를 사용하여 Canny된 이미지를 Masking으로 추출하여 가장자리 인식 </li>
-      <br>
-      <li>Closing 함수를 통해 그림의 불필요한 노이즈를 제거 및 떨어져 있는 선들을 연결</li>
+      <li>권한을 거부하면 지도 전체를 보여줄 수 있게 설정</li>
       <br>
     </ul>
    </div>
