@@ -14,9 +14,9 @@ featured-img: gismain
 <h2>3. 구현</h2>
 <h3 style="margin-left: 40px;">1) 위치 권한</h3>
     <div>
-    <img src="/assets/img/posts/1.위치 권한 o.jpg"  width="50%" height="50%" style="margin-left: 33px; "/>
-    <img src="/assets/img/posts/1.위치 권한 x.jpg"  width="50%" height="50%" style="margin-left: 33px; "/>
-        <img src="/assets/img/posts/1.위치 권한 여부.jpg"  width="50%" height="50%" style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/1.위치 권한 o.png"  width="50%" height="50%" style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/1.위치 권한 x.png"  width="50%" height="50%" style="margin-left: 33px; "/>
+        <img src="/assets/img/posts/1.위치 권한 여부.png"  width="50%" height="50%" style="margin-left: 33px; "/>
      <ul>
       <li>프로그램 시작 시 위치 권한 여부 확인</li>
       <br>
@@ -29,8 +29,9 @@ featured-img: gismain
 
 <h3 style="margin-left: 40px;">2) V-WORLD 및 OPENLAYER</h3>
   <div>
-    <img src="/assets/img/posts/hand-sub4.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/hand-sub3.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/2.화면-1.png"  width="50%" height="50%" style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/2.화면-2.png"  width="50%" height="50%" style="margin-left: 33px; "/>
+     <img src="/assets/img/posts/2.화면-3.png"  width="50%" height="50%" style="margin-left: 33px; "/>
       <ul >
       <li>R.O.I 및 전처리  작업을 통한 좌표를 이용하여, 손금 영역의 손금을 추출</li>
       <br>
@@ -40,6 +41,19 @@ featured-img: gismain
       <br>
     </ul>
    </div>
+ <div>
+    <img src="/assets/img/posts/2.vworld 이용한 화면 배열로 담기.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts2.화면 타겟에 올리기.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+      <ul >
+      <li>R.O.I 및 전처리  작업을 통한 좌표를 이용하여, 손금 영역의 손금을 추출</li>
+      <br>
+      <li>손금의 영역은 HoughLine 알고리즘을 통하여 손금의 좌표를 return</li>
+      <br>
+      <li>Return받은 lines의 좌표를 통해 손금의 데이터만을 가져와 새로운 좌표평면에 손금을 생성</li>
+      <br>
+    </ul>
+   </div>
+
 <h3 style="margin-left: 40px;">3) DATA Geoserver</h3>
 <div>
     <img src="/assets/img/posts/hand-sub5.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
