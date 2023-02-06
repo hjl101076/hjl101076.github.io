@@ -6,8 +6,8 @@ featured-img: gismain
 
 ## 1. 기술 스택 
 > node.js 18.12.1 / spring boot 2.7.8   / gradle / jar   
-  bootstrap 5.2 / Maria / Thymeleaf
-  geoserver  / openlayer
+> bootstrap 5.2 / Maria / Thymeleaf
+> geoserver  / openlayer
 
 
 ## 2. 구현
