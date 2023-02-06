@@ -4,14 +4,14 @@ featured-img: gismain
 ---
 
 
-## 1. 기술 스택 
-<h3> node.js 18.12.1 / spring boot 2.7.8   / gradle / jar   
+## 기술 스택 
+<h3 style="margin-left: 40px;" > node.js 18.12.1 / spring boot 2.7.8   / gradle / jar   
 <br> bootstrap 5.2 / Maria / Thymeleaf
 <br> geoserver  / openlayer</h3>
 
 
 <div>
-<h2>3. 구현</h2>
+<h2>구현</h2>
 <h3 style="margin-left: 40px;">1) 위치 권한</h3>
     <div>
     <img src="/assets/img/posts/1.위치 권한 o.png"  width="50%" height="50%" style="margin-left: 33px; "/>
