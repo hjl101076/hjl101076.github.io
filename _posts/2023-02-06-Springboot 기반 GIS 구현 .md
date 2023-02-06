@@ -1,6 +1,6 @@
 ---
 layout: post
-featured-img: vr-1
+featured-img: gismain
 ---
 
 
