@@ -5,9 +5,9 @@ featured-img: gismain
 
 
 ## 기술 스택 
-<h3 style="margin-left: 40px;" > node.js 18.12.1 / spring boot 2.7.8   / gradle / jar   
-<br> bootstrap 5.2 / Maria / Thymeleaf
-<br> geoserver  / openlayers</h3>
+<h3 style="margin-left: 40px;" > TOOL : node.js 18.12.1 / spring boot 2.7.8 / Thymeleaf / bootstrap 5.2  / gradle / jar
+<br>DB :   Maria DB 
+<br>GIS :  geoserver  / openlayers</h3>
 
 
 <div>
@@ -33,31 +33,27 @@ featured-img: gismain
     <img src="/assets/img/posts/2.화면-2.png"  width="50%" height="50%" style="margin-left: 33px; "/>
      <img src="/assets/img/posts/2.화면-3.png"  width="50%" height="50%" style="margin-left: 33px; "/>
       <ul >
-      <li>R.O.I 및 전처리  작업을 통한 좌표를 이용하여, 손금 영역의 손금을 추출</li>
-      <br>
-      <li>손금의 영역은 HoughLine 알고리즘을 통하여 손금의 좌표를 return</li>
-      <br>
-      <li>Return받은 lines의 좌표를 통해 손금의 데이터만을 가져와 새로운 좌표평면에 손금을 생성</li>
+      <li>Openlayer를 이용한 V-world 배경지도 생성</li>
       <br>
     </ul>
    </div>
  <div>
     <img src="/assets/img/posts/2.vworld 이용한 화면 배열로 담기.png"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts2.화면 타겟에 올리기.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/2.화면 타겟에 올리기.png"  width="50%" height="50%" style="margin-left: 40px; "/>
       <ul >
-      <li>R.O.I 및 전처리  작업을 통한 좌표를 이용하여, 손금 영역의 손금을 추출</li>
+      <li>일반(Base),영상(Satellite),하이브리드(Hybrid) 레이어 PUSH</li>
       <br>
-      <li>손금의 영역은 HoughLine 알고리즘을 통하여 손금의 좌표를 return</li>
+      <li>함수 ol.layer.Group 사용하여 그룹화</li>
       <br>
-      <li>Return받은 lines의 좌표를 통해 손금의 데이터만을 가져와 새로운 좌표평면에 손금을 생성</li>
+      <li>ol.Map 함수 안에서 'layers'는 ol.layer.Group 사용 및 'target'은 ID 값 가져와서 지도 생성</li>
       <br>
+       <li>지도 선택 시, Visibility로 설정</li>
     </ul>
    </div>
 
 <h3 style="margin-left: 40px;">3) DATA Geoserver</h3>
 <div>
-    <img src="/assets/img/posts/hand-sub5.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/hand-sub6.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/3.3개의 하천 geoserver.png"  width="50%" height="50%" style="margin-left: 40px; "/>
       <ul>
       <li>Gaussian Pyramed를 생성한 후, DoG(Difference of Gaussian)을 구해서 극점인 부분의 특징점 후보자 추출</li>
       <br>
@@ -72,17 +68,24 @@ featured-img: gismain
 
 </div>
 
-## 4. 결과
-
+<h3 style="margin-left: 40px;">4) SHP 및 DB 연동</h3>
 <div>
-    <img src="/assets/img/posts/hand-sub7.jpg"  width="50%" height="50%" style="margin-left: 40px; "/>
-     <ul>
-       이 프로젝트는 기존의 알고리즘 기반으로 개인의 <strong>특징을 추출하고 매칭</strong>.
-       <br><strong>Contour, ConvexHull, Closing, R.O.I</strong> 등의 알고리즘으로 <strong>MySQL과 연동</strong>하며, 
-       <br>개인 이미지 식별의 <strong>정확도</strong>는 <strong>72.5%</strong>
+    <img src="/assets/img/posts/4.클릭시 줌인 및 하천정보 팝업 출력.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.클릭시 가져온정보로 그 shp의 위치 줌인.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+      <ul>
+      <li>Gaussian Pyramed를 생성한 후, DoG(Difference of Gaussian)을 구해서 극점인 부분의 특징점 후보자 추출</li>
+      <br>
+      <li>테일러 급수를 사용하여 특징점 후보자 중에서 정확하지 않는 특징점을 제거</li>
+      <br>
+      <li>Gaussian Weight Function을 활용하여 서술자를 생성</li>
+      <br>
+      <li>이미지에서 SIFT 특징을 각각 추출한 다음에 서로 가장 비슷한 특징끼리 매칭</li>
+      <br>
     </ul>
-  
+   </div>
+
 </div>
+
 
 
  
