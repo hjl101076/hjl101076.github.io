@@ -14,9 +14,9 @@ featured-img: gismain
 <h2>구현</h2>
 <h3 style="margin-left: 40px;">1) GPS 위치 권한</h3>
     <div>
-    <img src="/assets/img/posts/1.위치 권한 o.png"  width="50%" height="50%" style="margin-left: 33px; "/>
-    <img src="/assets/img/posts/1.위치 권한 x.png"  width="50%" height="50%" style="margin-left: 33px; "/>
-        <img src="/assets/img/posts/1.위치 권한 여부.png"  width="50%" height="50%" style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/1.위치 권한 o.png"   style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/1.위치 권한 x.png"   style="margin-left: 33px; "/>
+        <img src="/assets/img/posts/1.위치 권한 여부.png"   style="margin-left: 33px; "/>
      <ul>
       <li>위치 권한 허용 - 사용자의 위치로 확대 , 위치 권한 반대 - 지도 전체를 보여줄 수 있게 설정</li>
       <br>
@@ -29,17 +29,17 @@ featured-img: gismain
 
 <h3 style="margin-left: 40px;">2) V-WORLD 및 OPENLAYER</h3>
   <div>
-    <img src="/assets/img/posts/2.화면-1.png"  width="50%" height="50%" style="margin-left: 33px; "/>
-    <img src="/assets/img/posts/2.화면-2.png"  width="50%" height="50%" style="margin-left: 33px; "/>
-     <img src="/assets/img/posts/2.화면-3.png"  width="50%" height="50%" style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/2.화면-1.png"   style="margin-left: 33px; "/>
+    <img src="/assets/img/posts/2.화면-2.png"   style="margin-left: 33px; "/>
+     <img src="/assets/img/posts/2.화면-3.png"   style="margin-left: 33px; "/>
       <ul >
       <li>Openlayer를 이용한 V-world 배경지도 생성</li>
       <br>
     </ul>
    </div>
  <div>
-    <img src="/assets/img/posts/2.vworld 이용한 화면 배열로 담기.png"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/2.화면 타겟에 올리기.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/2.vworld 이용한 화면 배열로 담기.png"   style="margin-left: 60px; "/>
+    <img src="/assets/img/posts/2.화면 타겟에 올리기.png"   style="margin-left: 40px; "/>
       <ul >
       <li>일반(Base),영상(Satellite),하이브리드(Hybrid) 레이어 PUSH</li>
       <br>
@@ -52,9 +52,9 @@ featured-img: gismain
 
 <h3 style="margin-left: 40px;">3) DATA Geoserver 및 DB 연동</h3>
 <div>
-    <img src="/assets/img/posts/3.3개의 하천 geoserver.png"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/4.클릭시 줌인 및 하천정보 팝업 출력"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/4.클릭시 가져온정보로 그 shp의 위치 줌인.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/3.3개의 하천 geoserver.png"style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.클릭시 줌인 및 하천정보 팝업 출력.png"   style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.클릭시 가져온정보로 그 shp의 위치 줌인.png"   style="margin-left: 40px; "/>
       <ul>
       <li>Geoserver로 SHP(빨강, 하늘, 파랑) 세팅</li>
       <br>
@@ -68,8 +68,8 @@ featured-img: gismain
 </div>
 
 <div>
-    <img src="/assets/img/posts/4.타임리프 데이터.png"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/4.타임리프 데이터db.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.타임리프 데이터.png"   style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.타임리프 데이터db.png"   style="margin-left: 40px; "/>
       <ul>
       <li>SHP의 ID 값과 DB의 ID 값 비교하여 데이터 출력</li>
       <br>
