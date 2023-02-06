@@ -43,43 +43,35 @@ featured-img: gismain
       <ul >
       <li>일반(Base),영상(Satellite),하이브리드(Hybrid) 레이어 PUSH</li>
       <br>
-      <li>함수 ol.layer.Group 사용하여 그룹화</li>
+      <li>함수 ol.layer.Group 그룹화</li>
       <br>
-      <li>ol.Map 함수 안에서 'layers'는 ol.layer.Group 사용 및 'target'은 ID 값 가져와서 지도 생성</li>
+      <li>함수 ol.Map 'layers' 레이어 설정 및 'target' 지도 출력</li>
       <br>
-       <li>지도 선택 시, Visibility로 설정</li>
     </ul>
    </div>
 
-<h3 style="margin-left: 40px;">3) DATA Geoserver</h3>
+<h3 style="margin-left: 40px;">3) DATA Geoserver 및 DB 연동</h3>
 <div>
     <img src="/assets/img/posts/3.3개의 하천 geoserver.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.클릭시 줌인 및 하천정보 팝업 출력"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.클릭시 가져온정보로 그 shp의 위치 줌인.png"  width="50%" height="50%" style="margin-left: 40px; "/>
       <ul>
-      <li>Gaussian Pyramed를 생성한 후, DoG(Difference of Gaussian)을 구해서 극점인 부분의 특징점 후보자 추출</li>
+      <li>Geoserver로 SHP(빨강, 하늘, 파랑) 세팅</li>
       <br>
-      <li>테일러 급수를 사용하여 특징점 후보자 중에서 정확하지 않는 특징점을 제거</li>
+      <li>지도 클릭 시, 지오서버 주소 및 좌표 변환하여 서버 요청</li>
       <br>
-      <li>Gaussian Weight Function을 활용하여 서술자를 생성</li>
-      <br>
-      <li>이미지에서 SIFT 특징을 각각 추출한 다음에 서로 가장 비슷한 특징끼리 매칭</li>
+      <li>SHP 안에 클릭한 좌표가 있으면 정보 표출 및 레이어 확대</li>
       <br>
     </ul>
    </div>
 
 </div>
 
-<h3 style="margin-left: 40px;">4) SHP 및 DB 연동</h3>
 <div>
-    <img src="/assets/img/posts/4.클릭시 줌인 및 하천정보 팝업 출력.png"  width="50%" height="50%" style="margin-left: 40px; "/>
-    <img src="/assets/img/posts/4.클릭시 가져온정보로 그 shp의 위치 줌인.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.타임리프 데이터.png"  width="50%" height="50%" style="margin-left: 40px; "/>
+    <img src="/assets/img/posts/4.타임리프 데이터db.png"  width="50%" height="50%" style="margin-left: 40px; "/>
       <ul>
-      <li>Gaussian Pyramed를 생성한 후, DoG(Difference of Gaussian)을 구해서 극점인 부분의 특징점 후보자 추출</li>
-      <br>
-      <li>테일러 급수를 사용하여 특징점 후보자 중에서 정확하지 않는 특징점을 제거</li>
-      <br>
-      <li>Gaussian Weight Function을 활용하여 서술자를 생성</li>
-      <br>
-      <li>이미지에서 SIFT 특징을 각각 추출한 다음에 서로 가장 비슷한 특징끼리 매칭</li>
+      <li>SHP의 ID 값과 DB의 ID 값 비교하여 데이터 출력</li>
       <br>
     </ul>
    </div>
