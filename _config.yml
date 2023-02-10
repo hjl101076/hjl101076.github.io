@@ -25,25 +25,8 @@ navigation: # Navigation links
   - {name: 'Skills & About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline:
- >
-  방문해주셔서 감사합니다. 컴퓨터 공학 석사 이재현입니다. 
->
-   2016~2018 : 중앙대학교 컴퓨터 공학부 졸업
-   2018~2020 : 중앙대학교 대학원 졸업
-            - 컴퓨터 공학부 응용 소프트웨어학과 석사 학위
-            - 컴퓨터 그래픽스 학회 논문 : 대화형 가상 현실에서 아바타의 립싱크(DOI:10.15701/kcgs.2020.26.4.9)
-            - 가상현실(VR) 사용자 상체 추정 및 얼굴 동기화
->
-  2020~현재 : 통합 시스템 개발
-            - GIS 기반 솔류션 및 하이브리드 앱(Cordova) 개발
-            - 공공기관(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) 업무 관련 시스템 개발
-            - egovframework, Spring Boot 개발
-            - Restful API 시스템 개발 및 운영
-            - RDBMS(PostgreSQL,Oracle,MariaDB) 운영
-            - SVN,GIT 버전 및 Maven,Gradle 프로젝트 관리
-            - Flutter 앱 개발
-
+tagline: > 
+        방문해주셔서 감사합니다. 컴퓨터 공학 석사 이재현입니다. 
           
 
 
