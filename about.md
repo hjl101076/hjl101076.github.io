@@ -21,7 +21,7 @@ permalink: /about/
 <h3>LIBRARY & TOOL</h3>
 <ul>  
 <li>JQuery, JSTL, Bootstrap, Ibatis , Thymeleaf </li>
-<li>eGovFrameWork, Spring, Spring boot</li>
+<li>eGovFrameWork, Spring-Boot</li>
 <li>Cordova</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>Maven, Gradle</li> 
@@ -46,11 +46,13 @@ permalink: /about/
 </ul>
 <h3>2020~현재 : 통합 시스템 개발</h3>
 <ul>
-            <li><strong>전자정부 프레임워크 기반 솔류션 및 하이브리드 앱 개발</strong></li>
-            <li>GIS 기반 웹, 앱 시스템 개발</li>
-            <li>프론트 엔드 퍼블 및 스크립트 작업</li>
-            <li>백엔드 서버 구축 및 DB 모델링 </li>
-            <li>dbf <=> shp 파일 변환 및 보고서 템플릿 개발</li>
+            <li><strong>GIS 기반 솔류션 및 하이브리드 앱(Cordova) 개발</strong></li>
+            <li>공공기관(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) 업무 관련 시스템 개발</li>
+            <li>egovframework, Spring Boot 개발</li>
+            <li>Restful API 시스템 개발 및 운영</li>
+            <li>RDBMS(PostgreSQL,Oracle,MariaDB) 운영</li>
+            <li>SVN,GIT 버전 및 Maven,Gradle 프로젝트 관리</li>
+            <li>Flutter 앱 개발</li>
 </ul>
           
 </div>
