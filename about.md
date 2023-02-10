@@ -25,7 +25,7 @@ permalink: /about/
 <li>Cordova</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>Maven, Gradle</li> 
-<li>svn,git</li>
+<li>SVN,GIT</li>
 </ul>
    
           
