@@ -21,8 +21,8 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Skills & About', link: '/'}
-  - {name: 'Project', link: '/Project'}
+  - {name: 'Project', link: '/'}
+  - {name: 'Skills & About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: > 
