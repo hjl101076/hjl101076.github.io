@@ -20,7 +20,7 @@ permalink: /about/
 <ul>
             <li><strong>GIS 기반 솔류션 및 하이브리드 앱(Cordova) 개발</strong></li>
             <li><strong>공공기관(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) 업무 관련 시스템 개발</strong></li>
-            <li>egovframework, Spring Boot 개발</li>
+            <li>Egovframework, Spring Boot 개발</li>
             <li>Restful API 시스템 개발 및 운영</li>
             <li>RDBMS(PostgreSQL,Oracle,MariaDB) 운영</li>
             <li>SVN,GIT 버전 및 Maven,Gradle 프로젝트 관리</li>
