@@ -79,7 +79,7 @@ featured-img: title
       <br>
       <li>이미지는 images 폴더와 갤러리에 저장하고, 이미지 이름과 유저 이메일을 gallery DB 저장</li>
       <br>
-      <li>로그인 유저 정보의 쿼리를 실행하여, 저장한 이미지만 mysqli_fetch_all() 리스트로 저장 및 이미지의 개수만큼 화면에 출력</li>
+      <li>로그인한 유저가 저장한 이미지를 mysqli_fetch_all() 리스트로 불러오고 사진 정보 탭에서 이미지의 개수만큼 화면에 출력</li>
     </ul>
 
 </div>
