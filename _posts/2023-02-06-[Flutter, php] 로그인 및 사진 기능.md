@@ -73,15 +73,15 @@ featured-img: title
     <video src="/assets/img/posts/flutter-4.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/4.imgsave2.png"   style="width: 50%; height: 600px; "/>
      <img src="/assets/img/posts/4.imgsave.png"   style="width: 50%; height: 300px;  "/>
-      <img src="/assets/img/posts/4.imgsavephp.png"   style="width: 50%; height: 300px;  "/>
-           <img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
-      <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/>
       <ul>
       <li>image_picker 라이브러리를 사용하며, 비동기 처리를 통해 카메라와 갤러리에서 이미지를 가져옴</li>
       <br>
       <li>이미지는 images 폴더와 갤러리에 저장하고, 이미지 이름과 유저 이메일을 gallery DB 저장</li>
       <br>
       <li>로그인한 유저가 저장한 이미지를 mysqli_fetch_all() 리스트로 불러오고 사진 정보 탭에서 이미지의 개수만큼 화면에 출력</li>
+            <img src="/assets/img/posts/4.imgsavephp.png"   style="width: 50%; height: 300px;  "/>
+           <img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
+      <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/>
     </ul>
 
 </div>
