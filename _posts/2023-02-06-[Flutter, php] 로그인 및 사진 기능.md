@@ -77,9 +77,9 @@ featured-img: title
       <ul>
       <li>image_picker 라이브러리를 사용하며, 비동기 처리를 통해 카메라와 갤러리에서 이미지를 가져옴</li>
       <br>
-      <li>이미지는 images 폴더와 갤러리에 저장하고, 이미지 이름과 유저 이메일 DB에 저장</li>
+      <li>이미지는 images 폴더와 갤러리에 저장하고, 이미지 이름과 유저 이메일을 gallery DB 저장</li>
       <br>
-      <li>로그인 유저 정보의 쿼리를 실행하여, 저장한 이미지만 mysqli_fetch_all() 리스트로 로드 및 화면 출력</li>
+      <li>로그인 유저 정보의 쿼리를 실행하여, 저장한 이미지만 mysqli_fetch_all() 리스트로 저장 및 이미지의 개수만큼 화면에 출력</li>
     </ul>
 
 </div>
