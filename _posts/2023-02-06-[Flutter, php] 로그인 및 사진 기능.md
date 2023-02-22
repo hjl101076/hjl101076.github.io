@@ -43,7 +43,7 @@ featured-img: title
       <img src="/assets/img/posts/2.checkemaiphp.png"   style="width: 50%; height: 300px;  "/>
       <img src="/assets/img/posts/2.signipphp.png"   style="width: 50%; height: 300px;  "/>
      <ul>
-      <li>http 라이브러리를 통해 API 클래스 내부에 지정된 경로로 소켓 통신</li>
+      <li>http 라이브러리를 사용해서 API 클래스 내부에 지정된 경로로 소켓 통신</li>
       <br>
       <li>회원가입 시 checkEmail() 함수를 통해 emailcheck.php으로 통신, $resultQuery로 이메일 중복 확인</li>
       <br>
@@ -70,7 +70,17 @@ featured-img: title
 <br>
 <h4>4) 카메라 촬영 및 저장</h4>
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
-   
+    <video src="/assets/img/posts/flutter-4.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
+    <img src="/assets/img/posts/4.imgsave2.png"   style="width: 50%; height: 600px; "/>
+     <img src="/assets/img/posts/4.imgsave.png"   style="width: 50%; height: 300px;  "/>
+      <img src="/assets/img/posts/4.imgsavephp.png"   style="width: 50%; height: 300px;  "/>
+      <ul>
+      <li>image_picker 라이브러리를 사용하며, 비동기 처리를 통해 카메라와 갤러리에서 이미지를 가져옴</li>
+      <br>
+      <li>이미지는 images 폴더와 갤러리에 저장하고, 이미지 이름과 유저 이메일 DB에 저장</li>
+      <br>
+      <li></li>
+    </ul>
 
 </div>
 
