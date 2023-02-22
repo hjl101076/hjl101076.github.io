@@ -129,7 +129,7 @@ featured-img: emile-perron-190221
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 ( window10 / Android / Vscode/ Flutter)
+> - 배포 시스템 개발 환경 구축 ( Android / Vscode/ Flutter / PHP)
 
 
 
