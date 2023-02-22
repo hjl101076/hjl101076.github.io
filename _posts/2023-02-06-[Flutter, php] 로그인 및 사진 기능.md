@@ -39,7 +39,7 @@ featured-img: gismain
 <h4>2) 회원가입 및 이메일 중복 체크</h4>
     <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
         <video src="/assets/img/posts/flutter-2.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
-    <img src="/assets/img/posts/2.checkemail.png"   style="width: 50%; height: 300px; "/>
+    <img src="/assets/img/posts/2.checkemail.png"   style="width: 50%; height: 600px; "/>
       <img src="/assets/img/posts/2.checkemaiphp.png"   style="width: 50%; height: 300px;  "/>
       <img src="/assets/img/posts/2.signipphp.png"   style="width: 50%; height: 300px;  "/>
      <ul>
