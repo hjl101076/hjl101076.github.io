@@ -33,7 +33,7 @@ permalink: /about/
 
 <h3>LANGUAGE</h3> 
 <ul> 
-<li>JAVA, C#, PYTHON</li>
+<li>Java, C#, Python</li>
 </ul>
 <h3>DB</h3>  
 <ul>
