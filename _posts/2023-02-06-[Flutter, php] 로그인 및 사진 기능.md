@@ -41,9 +41,10 @@ featured-img: gismain
         <video src="/assets/img/posts/flutter-2.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/2.checkemail.png"   style="width: 50%; height: 300px; "/>
       <img src="/assets/img/posts/2.checkemaiphp.png"   style="width: 50%; height: 300px;  "/>
-      <img src="/assets/img/posts/2.signip.png"   style="width: 50%; height: 300px;  "/>
       <img src="/assets/img/posts/2.signipphp.png"   style="width: 50%; height: 300px;  "/>
      <ul>
+      <li>http 라이브러리를 통해 API 클래스 내부에 지정된 경로로 소켓 통신</li>
+      <br>
       <li>회원가입 시 checkEmail() 함수를 통해 emailcheck.php으로 통신, $resultQuery로 이메일 중복 확인</li>
       <br>
       <li>이메일 중복 체크 후, signup.php 통신으로 db에 회원 정보 저장</li>
