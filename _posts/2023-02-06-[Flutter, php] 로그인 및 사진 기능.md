@@ -68,7 +68,7 @@ featured-img: title
    </div>
 
 <br>
-<h4>4) 카메라 촬영 및 저장</h4>
+<h4>4) 카메라 촬영 및 저장,불러오기</h4>
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
     <video src="/assets/img/posts/flutter-4.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/4.imgsave2.png"   style="width: 50%; height: 600px; "/>
@@ -79,17 +79,11 @@ featured-img: title
       <br>
       <li>이미지는 images 폴더와 갤러리에 저장하고, 이미지 이름과 유저 이메일 DB에 저장</li>
       <br>
-      <li></li>
+      <li>로그인 유저 정보의 쿼리를 실행하여, 저장한 이미지만 mysqli_fetch_all() 리스트로 로드 및 화면 출력</li>
     </ul>
 
 </div>
 
-<br>
-<h4>5) 찍은 사진 불러오기</h4>
-<div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
-   
-
-</div>
 
 
 
