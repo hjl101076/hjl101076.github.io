@@ -18,7 +18,7 @@ featured-img: gismain
 <br>
 <h2>* 구현</h2>
 <br>
-<h4>1) MySQL 및 백엔드(php) 세팅</h4>
+<h4>1) MySQL 및 백엔드(php)</h4>
     <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
       <img src="/assets/img/posts/1.galleryDB.png"   style="width: 50%; height: 300px; "/>
       <img src="/assets/img/posts/1.userDB.png"   style="width: 50%; height: 300px;  "/>
