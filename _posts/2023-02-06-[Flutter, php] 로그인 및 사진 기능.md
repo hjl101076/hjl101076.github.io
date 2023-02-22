@@ -55,9 +55,10 @@ featured-img: title
 <br>
 <h4>3) 로그인 </h4>
   <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
- <ul>
+ 
  <video src="/assets/img/posts/flutter-3.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/3.login.png"   style="width: 50%; height: 600px; "/>
+    <ul>
       <li>로그인 정보(이메일,비밀번호)를 signin.php 으로 전달 후, 사용자 여부 확인 및 해당하는 유저의 정보를 배열로 가져옴</li>
       <br>
       <li>DB에서 가져온 유저의 정보를 세션의 저장하여 페이지 이동 시, 유저 정보 전달</li>
