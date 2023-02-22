@@ -37,7 +37,7 @@ permalink: /about/
 </ul>
 <h3>DB</h3>  
 <ul>
-<li>PostgreSQL, Oracle, Maria , MySQL</li>
+<li>PostgreSQL, Oracle, Maria DB, MySQL</li>
 </ul>
 <h3>WAS</h3> 
 <ul>
