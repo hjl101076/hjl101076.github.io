@@ -38,11 +38,11 @@ featured-img: gismain
    </div>
 <h4>2) 회원가입 및 이메일 중복 체크</h4>
     <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
-        <video src="/assets/img/posts/flutter-2.mp4"  style="width: 50%;height:300px" controls autoplay muted></video>
+        <video src="/assets/img/posts/flutter-2.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/2.checkemail.png"   style="width: 50%; height: 300px; "/>
       <img src="/assets/img/posts/2.checkemaiphp.png"   style="width: 50%; height: 300px;  "/>
       <img src="/assets/img/posts/2.signip.png"   style="width: 50%; height: 300px;  "/>
-      <img src="/assets/img/posts/2.signipphp.png"   style="width: 100%; height: 300px;  "/>
+      <img src="/assets/img/posts/2.signipphp.png"   style="width: 50%; height: 300px;  "/>
      <ul>
       <li>회원가입 시 checkEmail() 함수를 통해 emailcheck.php으로 통신, $resultQuery로 이메일 중복 확인</li>
       <br>
