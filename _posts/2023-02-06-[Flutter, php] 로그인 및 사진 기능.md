@@ -1,6 +1,6 @@
 ---
 layout: post
-featured-img: gismain
+featured-img: title
 ---
 
 
