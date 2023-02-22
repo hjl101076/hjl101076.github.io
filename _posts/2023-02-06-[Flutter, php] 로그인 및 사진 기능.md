@@ -52,7 +52,7 @@ featured-img: gismain
       <li></li>
       <br>
     </ul>
-    <video src="/assets/img/posts/flutter-2.mp4"  style="width: 100%;" controls autoplay muted></video>
+    <video src="/assets/img/posts/flutter-2.mp4"  style="width: 100%;height:20%" controls autoplay muted></video>
 
    </div>
 <br>
