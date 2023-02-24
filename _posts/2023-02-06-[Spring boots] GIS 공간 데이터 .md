@@ -31,7 +31,7 @@ featured-img: gismain
     </ul>
    </div>
 
-<h4>2) V-WORLD 및 OPENLAYER</h4>
+<h4>2) Map 및 OPENLAYER 구현</h4>
   <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
     <img src="/assets/img/posts/2.화면-1.png"   style="width: 33%; height: 300px; "/>
     <img src="/assets/img/posts/2.화면-2.png"   style="width: 33%; height: 300px;  "/>
@@ -54,7 +54,7 @@ featured-img: gismain
     </ul>
    </div>
 
-<h4>3) DATA Geoserver 및 DB 연동</h4>
+<h4>3) GIS, Maria DB 데이터 연동</h4>
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
     <img src="/assets/img/posts/3.3개의 하천 geoserver.png" style="width:100%; "/>
     <img src="/assets/img/posts/4.클릭시 줌인 및 하천정보 팝업 출력.png"   style="width:100% "/>
