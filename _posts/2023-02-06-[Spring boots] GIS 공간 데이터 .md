@@ -36,20 +36,16 @@ featured-img: gismain
     <img src="/assets/img/posts/2.화면-1.png"   style="width: 33%; height: 300px; "/>
     <img src="/assets/img/posts/2.화면-2.png"   style="width: 33%; height: 300px;  "/>
      <img src="/assets/img/posts/2.화면-3.png"   style="width: 33%; height: 300px;  "/>
+         <img src="/assets/img/posts/2.vworld 이용한 화면 배열로 담기.png"   style="width: 50%; height: 300px;"/>
+    <img src="/assets/img/posts/2.화면 타겟에 올리기.png"   style="width: 50%; height: 300px;"/>
       <ul >
       <li>Openlayer를 이용한 V-world 배경지도 생성</li>
       <br>
       <li>일반(Base),영상(Satellite),하이브리드(Hybrid) 레이어 PUSH</li>
       <br>
-    </ul>
-   </div>
- <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
-    <img src="/assets/img/posts/2.vworld 이용한 화면 배열로 담기.png"   style="width: 50%; "/>
-    <img src="/assets/img/posts/2.화면 타겟에 올리기.png"   style="width: 50%; "/>
-      <ul >  
-      <li>함수 ol.layer.Group 그룹화</li>
+      <li>함수 ol.layer.Group으로 배경지도 그룹화</li>
       <br>
-      <li>함수 ol.Map 'layers' 레이어 설정 및 'target' 지도 출력</li>
+       <li>함수 ol.Map으로 'target' 지도 출력</li>
       <br>
     </ul>
    </div>
