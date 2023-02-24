@@ -64,7 +64,7 @@ featured-img: gismain
       <ul >
       <li>Geoserver에 SHP(지도상에서는 빨강, 하늘, 파랑) 파일 업로드</li>
       <br>
-      <li>SHP 레이어 클릭 시, 좌표를 변환하여 Geoserver 데이터 전송</li>
+      <li>지도에 보여지는 SHP 레이어 클릭 시, 클릭한 마우스 좌표를 5186으로 변환하여 Geoserver 데이터 전송</li>
       <br>
       <li>SHP 범위 안에 클릭한 좌표가 포함된다면 SHP 정보 표출 및 확대</li>
       <br>
