@@ -18,7 +18,7 @@ permalink: /about/
 </ul>
 <h3>2020~현재 : 통합 시스템 개발</h3>
 <ul>
-            <li><strong>GIS 기반 솔류션 및 하이브리드 앱(Cordova) 개발</strong></li>
+            <li><strong>GIS 기반 웹 솔류션 및 하이브리드 앱(Cordova) 개발</strong></li>
             <li><strong>공공기관 및 행정기관 SI/SM 프로젝트 수행(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) </strong></li>
             <li>공공 SI 및 연구과제 수행</li>
             <li>eGovFrameWork, Spring Boot 개발</li>
