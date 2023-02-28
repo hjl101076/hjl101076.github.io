@@ -16,7 +16,7 @@ permalink: /about/
             <li><strong>컴퓨터 그래픽스 학회 논문 : 대화형 가상 현실에서 아바타의 립싱크(DOI:https://doi.org/10.15701/kcgs.2020.26.4.9)</strong></li>
             <li>가상현실(VR) 사용자 상체 추정 및 얼굴 동기화</li>
 </ul>
-<h3>2020~현재 : 통합 시스템 개발</h3>
+<h3>2020~현재 : 공공 SI 통합 시스템 개발</h3>
 <ul>
             <li><strong>GIS 기반 웹 솔류션 및 하이브리드 앱(Cordova) 개발</strong></li>
             <li><strong>공공기관 및 행정기관 SI/SM 프로젝트 수행(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) </strong></li>
