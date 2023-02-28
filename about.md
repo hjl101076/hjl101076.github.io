@@ -45,8 +45,8 @@ permalink: /about/
 </ul>  
 <h3>LIBRARY & TOOL</h3>
 <ul>  
+<li><strong>eGovFrameWork, Spring-Boot</strong></li>
 <li>JQuery, PHP, JSTL, Bootstrap, Ibatis, Thymeleaf</li>
-<li>eGovFrameWork, Spring-Boot</li>
 <li>Cordova, Flutter</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>Maven, Gradle</li> 
