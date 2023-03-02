@@ -31,7 +31,7 @@ featured-img: title
       <br>
       <li>백엔드 Xampp 툴을 사용해서 php 소켓 통신</li>
       <br>
-      <li>통신할 수 있는 flutter 내부에 Api 클래스 생성</li>
+      <li>소켓 통신할 수 있게끔 flutter 내부에 Api 클래스 생성</li>
       <br>
     </ul>
     
