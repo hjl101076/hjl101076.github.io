@@ -11,7 +11,7 @@ featured-img: gismain
 
 
 ## * 개요
-<h4 style="margin-left: 40px;"><strong>Geoserver</strong>에 올린 SHP 파일과 <strong>DB를 연동</strong>하여 웹 지도에서 <strong>공간 데이터 표출</strong></h4>
+<h4 style="margin-left: 40px;"><strong>Geoserver</strong>에 올린 SHP 파일 정보와 <strong>DB를 연동</strong>하여 웹 지도에서 <strong>공간 데이터 표출</strong></h4>
 
 
 <div >
