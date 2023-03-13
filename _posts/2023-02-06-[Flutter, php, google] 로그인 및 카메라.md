@@ -5,14 +5,14 @@ featured-img: title
 
 
 ## * 기술 스택 
-<h4 style="margin-left: 40px;" > TOOL : Flutter / PHP / VS code / XAMPP 
+<h4 style="margin-left: 40px;" > TOOL : Flutter / PHP / VS code / XAMPP / Google map
 <br>DB :   MySQL </h4>
 <br>
 
 
 
 ## * 개요
-<h4 style="margin-left: 40px;">PHP 소켓 통신으로<strong> 회원가입,로그인</strong> 및 <strong>카메라 촬영,저장,불러오기</strong></h4>
+<h4 style="margin-left: 40px;">Flutter 와 PHP 통신으로 <strong>회원가입, 로그인, 사진  저장, 불러오기 구현</strong> 및 <strong>사진 찍은 위치(GPS) 정보를 google map 위에 마커</strong> 생성</h4>
 
 
 <div>
@@ -86,7 +86,7 @@ featured-img: title
       <div>
 
 
-
+<h4>5) google map 및 GPS</h4>
 
  
  
