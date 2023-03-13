@@ -5,21 +5,21 @@ featured-img: title
 
 
 ## * 기술 스택 
-<h4 style="margin-left: 40px;" > TOOL : Flutter / PHP / VS code / XAMPP / Google map
-<br>DB :   MySQL </h4>
-<br>
+<h4 > TOOL : Flutter / PHP / VS code / XAMP
+<br>DB :   MySQL 
+<br>API :    Google map</h4>
 
 
 
 ## * 개요
-<h4 style="margin-left: 40px;">Flutter 와 PHP,MySQL 서버 통신으로 <strong>회원가입, 로그인, 사진  저장, 불러오기 구현</strong> 및 <strong>(*추가) 사진 찍은 위치(GPS) 정보를 google map 위에 마커</strong> 생성</h4>
+<h4 >Flutter 와 PHP,MySQL 서버 통신으로 <strong>회원가입, 로그인, 사진  저장, 불러오기 구현</strong> 및 <strong>(*추가) 사진 찍은 위치(GPS) 정보를 google map 위에 마커</strong> 생성</h4>
 
 
 <div>
 <br>
 <h2>* 구현</h2>
 <h4>1) MySQL 및 백엔드(php)</h4>
-    <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
+    <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap; background-color: #dcdef5; " >
       <img src="/assets/img/posts/1.galleryDB.png"   style="width: 50%; height: 300px; "/>
       <img src="/assets/img/posts/1.userDB.png"   style="width: 50%; height: 300px;  "/>
       <img src="/assets/img/posts/1.phpconnection.png"   style="width: 50%; height: 300px;  "/>
@@ -37,7 +37,7 @@ featured-img: title
     
    </div>
 <h4>2) 회원가입 및 이메일 중복 체크</h4>
-    <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
+    <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap; background-color: #dcdef5;" >
         <video src="/assets/img/posts/flutter-2.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/2.checkemail.png"   style="width: 50%; height: 600px; "/>
       <img src="/assets/img/posts/2.checkemaiphp.png"   style="width: 50%; height: 300px;  "/>
@@ -54,7 +54,7 @@ featured-img: title
    </div>
 <br>
 <h4>3) 로그인 </h4>
-  <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
+  <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap; background-color: #dcdef5;" >
  
  <video src="/assets/img/posts/flutter-3.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/3.login.png"   style="width: 50%; height: 600px; "/>
@@ -69,7 +69,7 @@ featured-img: title
 
 <br>
 <h4>4) 카메라 촬영 및 저장,불러오기</h4>
-<div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
+<div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap; background-color: #dcdef5;" >
     <video src="/assets/img/posts/flutter-4.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/4.imgsave2.png"   style="width: 50%; height: 600px; "/>
      <img src="/assets/img/posts/4.imgsave.png"   style="width: 50%; height: 300px;  "/>
@@ -89,7 +89,7 @@ featured-img: title
 <h4>*추가 5) google map 및 GPS</h4>
 
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;    background-color: beige;"  >
-      <ul>
+      <ul >
       <li>google_maps_flutter 라이브러리로 구글 맵 생성</li>
       <br>
       <li>사진 찍은 핸드폰 위치 정보(위경도)를 DB에 저장</li>
