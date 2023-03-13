@@ -5,14 +5,14 @@ featured-img: title
 
 
 ## * 기술 스택 
-<h4 > TOOL : Flutter / PHP / VS code / XAMP
+<h4 style="margin-left: 40px;"> TOOL : Flutter / PHP / VS code / XAMP
 <br>DB :   MySQL 
 <br>API :    Google map</h4>
 
 
 
 ## * 개요
-<h4 >Flutter 와 PHP,MySQL 서버 통신으로 <strong>회원가입, 로그인, 사진  저장, 불러오기 구현</strong> 및 <strong>(*추가) 사진 찍은 위치(GPS) 정보를 google map 위에 마커</strong> 생성</h4>
+<h4 style="margin-left: 40px;">Flutter 와 PHP,MySQL 서버 통신으로 <strong>회원가입, 로그인, 사진  저장, 불러오기 구현</strong> 및 <strong>(*추가) 사진 찍은 위치(GPS) 정보를 google map 위에 마커</strong> 생성</h4>
 
 
 <div>
