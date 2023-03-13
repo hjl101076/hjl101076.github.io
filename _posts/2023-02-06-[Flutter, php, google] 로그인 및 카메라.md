@@ -83,12 +83,12 @@ featured-img: title
     </ul>
        <img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
       <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/>
-      <div>
+      </div>
 
 <br>
 <h4>*추가 5) google map 및 GPS</h4>
 
-<div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;" >
+<div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;    background-color: beige;"  >
       <ul>
       <li>google_maps_flutter 라이브러리로 구글 맵 생성</li>
       <br>
@@ -98,10 +98,3 @@ featured-img: title
     </ul>
       <div>
 
-<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js">
-
-<pre style=" padding: 14px; font-size: 1.1rem; line-height: 1.45;    background-color: #f6f8fa; border-radius: 3px; border: 1px solid #fff; margin: 2px;">class Person{private String name;private Int age;}</pre>
-
-</script>
- 
- 
