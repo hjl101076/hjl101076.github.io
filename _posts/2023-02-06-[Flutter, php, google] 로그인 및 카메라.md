@@ -98,11 +98,10 @@ featured-img: title
     </ul>
       <div>
 
-~~~javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-~~~
+<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js">
 
+<pre style=" padding: 14px; font-size: 1.1rem; line-height: 1.45;    background-color: #f6f8fa; border-radius: 3px; border: 1px solid #fff; margin: 2px;">class Person{private String name;private Int age;}</pre>
+
+</script>
  
  
