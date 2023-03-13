@@ -98,10 +98,11 @@ featured-img: title
     </ul>
       <div>
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+~~~javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+~~~
 
  
  
