@@ -12,7 +12,7 @@ featured-img: title
 
 
 ## * 개요
-<h4 style="margin-left: 40px;">Flutter 와 PHP,MySQL 서버 통신으로 <strong>회원가입, 로그인, 사진  저장, 불러오기 구현</strong> 및 <strong>(*추가) 사진 찍은 위치(GPS) 정보를 google map 위에 마커</strong> 생성</h4>
+<h4 style="margin-left: 40px;">Flutter 와 PHP,MySQL 서버 통신으로 <strong>회원가입, 로그인, 사진  저장, 불러오기 구현</strong> 및 <strong>사진 찍은 위치(GPS) 정보를 google map 위에 마커</strong> 생성</h4>
 
 
 <div>
@@ -81,20 +81,22 @@ featured-img: title
       <br>
       <li>로그인한 유저가 저장한 이미지를 mysqli_fetch_all() 리스트로 불러오고 사진 정보 탭에서 리스트의 개수만큼 화면에 출력</li>
     </ul>
-       <img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
-      <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/>
+       
       </div>
 
 <br>
-<h4>*추가 5) google map 및 GPS</h4>
+<h4>5) google map 및 GPS</h4>
 
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;   "  >
+
+<img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
+      <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/>
       <ul >
       <li>google_maps_flutter 라이브러리로 구글 맵 생성</li>
       <br>
-      <li>사진 찍은 핸드폰 위치 정보(위경도)를 DB에 저장</li>
+      <li>사진 찍은 핸드폰 위치 정보(위도, 경도)를 DB에 저장</li>
       <br>
-      <li>지도 정보 탭 누를 시, DB 정보를 JSON로 가져와 구글 맵 위에 마커 생성</li>
+      <li>지도 정보 탭 누를 시, DB 정보(이메일, 위도, 경도)를 JSON로 가져와 구글 맵 위에 마커 생성</li>
     </ul>
       <div>
 
