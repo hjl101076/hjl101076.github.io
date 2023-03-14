@@ -6,8 +6,8 @@ featured-img: title
 
 ## * 기술 스택 
 <h4 style="margin-left: 40px;"> TOOL : Flutter / PHP / VS code / XAMP
-<br>DB :   MySQL 
-<br>API :    Google map</h4>
+<br>DB : MySQL 
+<br>Platform : Google map</h4>
 
 
 
