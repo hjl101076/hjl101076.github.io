@@ -1,6 +1,6 @@
 ---
 layout: post
-featured-img: title
+featured-img: title2
 ---
 
 
