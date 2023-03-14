@@ -88,7 +88,7 @@ featured-img: title
 <h4>5) google map 및 GPS</h4>
 
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;   "  >
-<video src="/assets/img/posts/flutter-4.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
+<video src="/assets/img/posts/flutter-5.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/6.marker.png"   style="width: 50%; height: 600px; "/>
 <img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
       <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/>
