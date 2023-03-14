@@ -72,8 +72,8 @@ featured-img: title
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap; " >
     <video src="/assets/img/posts/flutter-4.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/4.imgsave2.png"   style="width: 50%; height: 600px; "/>
-     <img src="/assets/img/posts/4.imgsave.png"   style="width: 50%; height: 300px;  "/>
-      <img src="/assets/img/posts/4.imgsavephp.png"   style="width: 50%; height: 300px;  "/>
+     <!--img src="/assets/img/posts/4.imgsave.png"   style="width: 50%; height: 300px;  "/>
+      <img src="/assets/img/posts/4.imgsavephp.png"   style="width: 50%; height: 300px;  "/-->
       <ul>
       <li>image_picker 라이브러리를 사용하며, 비동기 처리를 통해 카메라와 갤러리에서 이미지를 가져옴</li>
       <br>
@@ -90,8 +90,8 @@ featured-img: title
 <div style=" display: flex;mjustify-content: space-between; flex-wrap: wrap;   "  >
 <video src="/assets/img/posts/flutter-5.mp4"  style="width: 50%;height:600px" controls autoplay muted></video>
     <img src="/assets/img/posts/6.makrer.png"   style="width: 50%; height: 600px; "/>
-<img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
-      <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/>
+<!--img src="/assets/img/posts/5.listimg.png"   style="width: 50%; height: 300px;  "/>
+      <img src="/assets/img/posts/5.listimgphp.png"   style="width: 50%; height: 300px;  "/-->
       <ul >
       <li>google_maps_flutter 라이브러리로 구글 맵 생성</li>
       <br>
