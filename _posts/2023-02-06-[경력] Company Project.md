@@ -78,7 +78,7 @@ featured-img: emile-perron-190221
 > **기술 스택  : JAVA, Cordova, GeoServer, OpenLayer,PostGIS, PostgreSQL**
 
 > **담당 업무**  
-> - 배포 시스템 개발 환경 구축 (window10/ Vscode/intelliJ/ eGovFrameWork4.0/ Spring boot/ JQuery /bootstrap 4 / PostgreSQL/ GeoServer / Cordova 11)
+> - 배포 시스템 개발 환경 구축 (window10/ Vscode/intelliJ/ eGovFrameWork 3.10/ Spring boot/ JQuery /bootstrap 4 / PostgreSQL/ GeoServer / Cordova 11)
 
 > - GIS 기반 통합 관리 시스템 개발 - 영상처리, 실시간 알람, 공간 정보관리 모듈
 
@@ -103,15 +103,19 @@ featured-img: emile-perron-190221
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 (window10 / CentOS / Ubuntu / Vscode/intelliJ/ eGovFrameWork4.0/ Spring boot / oracle)
+> - 배포 시스템 개발 환경 구축 (window10 / CentOS / Ubuntu / Vscode/intelliJ/ eGovFrameWork 3.10/ Spring boot / oracle)
 
 > - 로그인별 담당자 권한 부여 시스템 개발
 
-> - 표준 API 관리 및 데이터베이스 ERD 설계 
+> - 표준 API 관리 및 사용자 인터페이스, 데이터베이스 설계 
+
+> - SSO 연계에 필요한 자료 수급 및 프레임워크 적용
 
 > - MPA 방식을 이용한 설계
 
 > - 시스템 배포를 위한 JEUS 사용
+
+
 
 
 
@@ -125,20 +129,6 @@ featured-img: emile-perron-190221
 > **담당 업무**  
 
 > - 배포 시스템 개발 환경 구축 ( Android / Vscode/ Flutter / PHP)
-
-
-
-   스마트 댐 안전관리(진행 예정)
-====
-
-> **규모 : 한국 수자원 공사**
-
-> **기술 스택**
-
-> **담당 업무**  
-
-> - 시스템 초안 작성
-
 
 
 
