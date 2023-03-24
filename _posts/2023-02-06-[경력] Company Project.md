@@ -124,11 +124,11 @@ featured-img: emile-perron-190221
 
 > **규모 : 대한민국 행정안전부**
 
-> **기술 스택 :  Flutter**
+> **기술 스택 :  JAVA, Cordova,**
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 ( Android / Vscode/ Flutter / PHP)
+> - 배포 시스템 개발 환경 구축 (  Android  /  eGovFrameWork 4.0 / Cordova 11)
 
 
 
