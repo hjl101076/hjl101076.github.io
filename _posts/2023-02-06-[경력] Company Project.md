@@ -132,7 +132,7 @@ featured-img: emile-perron-190221
 
 > - 배포 시스템 개발 환경 구축 (  Android  /  eGovFrameWork 4.0 / Cordova 11 / tomcat apache / )
 
-> - 모바일 재난현장 통합 상황관리 시스템 개발
+> - 모바일 재난현장 통합 상황관리 등록 시스템 개발
 
 > - 기관별 기 운영중인 상황관리시스템과 데이터 연계 모듈 구축(서비스 인증, Open api)
 
