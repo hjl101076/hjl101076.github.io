@@ -130,9 +130,11 @@ featured-img: emile-perron-190221
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 (  Android  /  eGovFrameWork 4.0 / Cordova 11 / tomcat apache / )
+> - 배포 시스템 개발 환경 구축 (  Android  /  eGovFrameWork 4.0 / Cordova 11 / tomcat apache / Postgresql)
 
 > - 모바일 재난현장 통합 상황관리 등록 시스템 개발
+
+> - Android 10 , postgresql 15 , tomcat apache  환경 구축
 
 > - 기관별 기 운영중인 상황관리시스템과 데이터 연계 모듈 구축(서비스 인증, Open api)
 
@@ -140,7 +142,7 @@ featured-img: emile-perron-190221
 
 > - 연계 관리를 위한 연계 대상 시스템 관리, 스케쥴러, 로그, 알림 관리 개발
 
-> - 시스템 배포를 위한 tomcat apache 사용
+> - DB 테이블 명세서 작성
 
 > **기여도  : 90%**
 
