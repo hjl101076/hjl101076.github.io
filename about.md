@@ -21,11 +21,10 @@ permalink: /about/
             <li><strong>GIS 기반 웹 솔류션 및 하이브리드 앱(Cordova) 개발</strong></li>
             <li><strong>공공기관 및 행정기관 SI/SM 프로젝트 수행(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) </strong></li>
             <li>공공 SI 및 연구과제 수행</li>
-            <li>eGovFrameWork, Spring Boot 개발</li>
+            <li>Window, Linux 및 eGovFrameWork, Spring Boot 운영</li>
             <li>Restful API 시스템 개발 및 운영</li>
             <li>RDBMS(PostgreSQL,Oracle,MariaDB) 운영</li>
             <li>SVN,GIT 버전 및 Maven,Gradle 프로젝트 관리</li>
-            <li>Window, Linux 운영</li>
            
 </ul>
 
@@ -46,7 +45,7 @@ permalink: /about/
 <h3>LIBRARY & TOOL</h3>
 <ul>  
 <li><strong>eGovFrameWork, Spring-Boot</strong></li>
-<li>JQuery, PHP, JSTL, Bootstrap, Ibatis, Thymeleaf</li>
+<li>JQuery, node.js,  PHP, JSTL, Bootstrap, Ibatis, Thymeleaf</li>
 <li>Cordova, Flutter</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>Maven, Gradle</li> 
