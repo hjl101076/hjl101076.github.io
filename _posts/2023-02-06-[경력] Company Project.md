@@ -80,7 +80,7 @@ featured-img: emile-perron-190221
 > **기술 스택  : JAVA, Cordova, GeoServer, OpenLayer,PostGIS, PostgreSQL**
 
 > **담당 업무**  
-> - 배포 시스템 개발 환경 구축 (window10/ Vscode/intelliJ/ eGovFrameWork 3.10/ Spring boot/ JQuery /bootstrap 4 / PostgreSQL/ GeoServer / Cordova 11)
+> - 배포 시스템 개발 환경 구축 (window10 / Linux/ Vscode/intelliJ/ eGovFrameWork 3.10/ Spring boot/ JQuery /bootstrap 4 / PostgreSQL/ GeoServer / Cordova 11)
 
 > - GIS 기반 통합 관리 시스템 개발 - 영상처리, 실시간 알람, 공간 정보관리 모듈
 
@@ -130,9 +130,11 @@ featured-img: emile-perron-190221
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 (  Android  /  eGovFrameWork 4.0 / Cordova 11 / tomcat apache / Postgresql)
+> - 배포 시스템 개발 환경 구축 ( Linux / Android  /  eGovFrameWork 4.0 / Cordova 11 / tomcat apache / Postgresql)
 
 > - 모바일 재난현장 통합 상황관리 등록 시스템 개발
+
+> - Centos 운영 서버 시스템 구축 및 데이터 관리
 
 > - Android 10 , postgresql 15 , tomcat apache  환경 구축
 

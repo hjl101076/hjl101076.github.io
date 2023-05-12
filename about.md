@@ -25,7 +25,7 @@ permalink: /about/
             <li>Restful API 시스템 개발 및 운영</li>
             <li>RDBMS(PostgreSQL,Oracle,MariaDB) 운영</li>
             <li>SVN,GIT 버전 및 Maven,Gradle 프로젝트 관리</li>
-            <li>Flutter 및 PHP 개발</li>
+            <li>Window, Linux 운영</li>
            
 </ul>
 
