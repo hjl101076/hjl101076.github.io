@@ -3,7 +3,7 @@ layout: post
 featured-img: emile-perron-190221
 ---
 
-하천 공사 구간 관리 웹 시스템
+ 하천 공사 구간 정보를 gis 데이터와 연계하여, 관리자들의 편의성을 위한 제공하는 웹 기반 플랫폼
 ======
 
 > **규모 : 대한민국 환경부**
@@ -11,9 +11,9 @@ featured-img: emile-perron-190221
 > **기술 스택  :  JAVA, GeoServer, OpenLayer, PostgreSQL**
 
 > **담당 업무**  
-> - 배포 시스템 개발 환경 구축 (window/ Vscode/intelliJ/ eGovFrameWork 3.6 -> 3.10/ Spring / JQuery /bootstrap 4 / PostgreSQL/ GeoServer)
+> - 배포 시스템 개발 환경 구축 (eGovFrameWork 3.6 -> 3.10)
   
-> - 하천공사관리 시스템 화면 개발 ( JQuery,bootstrap 4<js/ css/ html>)
+> - 하천공사관리 시스템 화면 개발 ( JQuery,bootstrap 4)
   
 > - 사업 정보에 대한 GIS 데이터 연계 및 표출( Geoserver, openlayers)
 
@@ -40,7 +40,7 @@ featured-img: emile-perron-190221
 > **기여도  : 80%**
 
 
-자연재해 현장조사 하이브리드 앱 
+ 현장에서 발생하는 재해들을 조사 및 분석하여 지역 주민들의 위험을 최소화하고자 하는 하이브리드 앱 플랫폼 
 ======
 
 > **규모 : 중견기업 외 외부 업체 대상**
@@ -48,9 +48,9 @@ featured-img: emile-perron-190221
 > **기술스택 :  JAVA, Cordova, GeoServer, OpenLayer,PostGIS, PostgreSQL**
 
 > **담당업무**
-> - 배포 시스템 개발 환경 구축 (window/ Vscode/ intelliJ/ eGovFrameWork 3.6 / Spring / JQuery / PostgreSQL/ GeoServer / Cordova 11)
+> - 배포 시스템 개발 환경 구축 (eGovFrameWork 3.6 / Cordova 11)
   
-> - 자연재해 시스템 화면 개발 ( JQuery<js/ css/ html>)
+> - 자연재해 시스템 화면 개발 (JQuery)
 
 > - 모바일 기능을 위한 하이브리드 앱 개발 (Cordova)
   
@@ -72,7 +72,7 @@ featured-img: emile-perron-190221
 
 > **기여도  : 60%**
 
-위성 드론 영상 정보를 활용한 하이브리드 앱 및 웹, 모바일 시스템
+ 실시간 영상 정보를 확인하기 위한 gis 기반 위성 데이터 표출 및 모바일, 웹, 하이브리드 앱 플랫폼
 ====
 
 > **규모 : 대한민국 행정안전부**
@@ -80,7 +80,7 @@ featured-img: emile-perron-190221
 > **기술 스택  : JAVA, Cordova, GeoServer, OpenLayer,PostGIS, PostgreSQL**
 
 > **담당 업무**  
-> - 배포 시스템 개발 환경 구축 (window10 / Linux/ Vscode/intelliJ/ eGovFrameWork 3.10/ Spring boot/ JQuery /bootstrap 4 / PostgreSQL/ GeoServer / Cordova 11)
+> - 배포 시스템 개발 환경 구축 (eGovFrameWork 3.10/ Cordova 11)
 
 > - GIS 기반 통합 관리 시스템 개발 - 영상처리, 실시간 알람, 공간 정보관리 모듈
 
@@ -96,7 +96,7 @@ featured-img: emile-perron-190221
 
 > **기여도  : 60%**
 
- 서울시 안전보건체계 통합 관리 시스템
+ 체계적인 안전 관리를 위한 서울시 안전 보건 체계 통합 관리 웹 플랫폼
 ====
 
 > **규모 : 대한민국 서울특별시**
@@ -105,7 +105,7 @@ featured-img: emile-perron-190221
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 (window10 / CentOS / Ubuntu / Vscode/intelliJ/ eGovFrameWork 3.10/ Spring boot / oracle)
+> - 배포 시스템 개발 환경 구축 (window10 / CentOS / Ubuntu / eGovFrameWork 3.10)
 
 > - 로그인별 담당자 권한 부여 시스템 개발
 
@@ -121,7 +121,7 @@ featured-img: emile-perron-190221
 
 
 
-  재난현장 상황관리를 위한 스마트 현장지원 시스템
+ 재난 현장 중심의 모바일 기반 지능형 재난현장 통합 상황관리 모바일 플랫폼
 ====
 
 > **규모 : 대한민국 행정안전부**
@@ -130,7 +130,7 @@ featured-img: emile-perron-190221
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 ( Linux / Android  /  eGovFrameWork 4.0 / Cordova 11 / tomcat apache / Postgresql)
+> - 배포 시스템 개발 환경 구축 (  eGovFrameWork 4.0 / Cordova 11)
 
 > - 모바일 재난현장 통합 상황관리 등록 시스템 개발
 
