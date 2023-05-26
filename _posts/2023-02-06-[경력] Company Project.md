@@ -14,7 +14,7 @@ featured-img: emile-perron-190221
 > **담당 업무**  
 > - 배포 시스템 개발 환경 구축 (eGovFrameWork 3.6 -> 3.10)
   
-> - 하천공사관리 시스템 화면 개발 ( JQuery,bootstrap 4)
+> - 협업 시스템 버전 관리 저장소 툴 사용(SVN, GIT)
   
 > - 사업 정보에 대한 GIS 데이터 연계 및 표출( Geoserver, openlayers)
 
@@ -51,19 +51,16 @@ featured-img: emile-perron-190221
 > **기술스택 :  JAVA, Cordova, GeoServer, OpenLayer,PostGIS, PostgreSQL**
 
 > **담당업무**
-> - 배포 시스템 개발 환경 구축 (eGovFrameWork 3.6 / Cordova 11)
   
-> - 자연재해 시스템 화면 개발 (JQuery)
+> - GIS 기반 하이브리드 앱 개발 (Cordova)
 
-> - 모바일 기능을 위한 하이브리드 앱 개발 (Cordova)
+> - 협업 시스템 버전 관리 저장소 툴 사용(SVN)
   
-> - 백엔드와 프론트 엔드 서버 분리 및 연동(Apache)  
+> - 배치 파일로 개발,운영 서버를 나누어 시스템 백업 및 복원 관리
   
 > - 모바일 및 웹 신규 gis 데이터 추가 기능 개발  (Postgis, Geoserver, openlayers)
    
-> - GIS 데이터 구축 및 CAD GIS 데이터 가공( ArcMap, C# {SHPtoTXT, TXTtoSHP}) 
-  
-> - 배치 파일로 개발,운영 서버를 나누어 시스템 백업 및 복원 관리
+> - GIS 데이터 구축 및 CAD GIS 데이터 가공( ArcMap, QGIS) 
   
 > - 1만건의 재해 정보 처리 기능 및 DB 구축(PostgreSQL)
   
@@ -85,9 +82,10 @@ featured-img: emile-perron-190221
 > **기술 스택  : JAVA, Cordova, GeoServer, OpenLayer,PostGIS, PostgreSQL**
 
 > **담당 업무**  
-> - 배포 시스템 개발 환경 구축 (eGovFrameWork 3.10/ Cordova 11)
 
 > - GIS 기반 통합 관리 시스템 개발 - 영상처리, 실시간 알람, 공간 정보관리 모듈
+
+> - 협업 시스템 버전 관리 저장소 툴 사용(GIT)
 
 > - 자료 수집 관리(데이터 백업, 연계 모듈) SFTP C/S 프로그램 개발 (window <==> linux 상호작용 프로그램, python 모듈 구동) 
 
@@ -100,6 +98,61 @@ featured-img: emile-perron-190221
 > - SPA 방식을 이용한 설계
 
 > **기여도  : 60%**
+
+
+ 재난 현장 중심의 모바일 기반 지능형 재난현장 통합 상황관리 모바일 플랫폼
+====
+
+> **기간 : 2021. 04. 21 - 2025. 12. 31**
+
+> **규모 : 대한민국 행정안전부**
+
+> **기술 스택 :  JAVA, Cordova, Jquery, postgresql**
+
+> **담당 업무**  
+
+> - 모바일 재난현장 통합 상황관리 등록 시스템 개발
+
+> - 협업 시스템 버전 관리 저장소 툴 사용(GIT)
+
+> - Centos 운영 서버 시스템 구축 및 데이터 관리
+
+> - Android 10 , postgresql 15 , tomcat apache  환경 구축
+
+> - 기관별 기 운영중인 상황관리시스템과 데이터 연계 모듈 구축(서비스 인증, Open api)
+
+> - 재난 현장 시스템 DB 구축,  API 방식 등 연계방식에 따른 단위 연계모듈 개발
+
+> - 연계 관리를 위한 연계 대상 시스템 관리, 스케쥴러, 로그, 알림 관리 개발
+
+
+> **기여도  : 90%**
+
+
+ 국가댐 37개소 3D 디지털 트윈 체계의 댐 안전관리 플랫폼
+====
+
+> **기간 : 2020. 01. 01 - 2025. 12. 31**
+
+> **규모 : 대한민국 수자원공사**
+
+> **기술 스택 :  JAVA, GIS, postgresql**
+
+> **담당 업무**  
+
+> - 상용 컴포넌트들을 조합하여 시스템 구축(eGovFrameWork 4.0)
+
+> - 시설물 이력관리 및 정보 조회 시스템 개발
+
+> - 연계를 위한 데이터셋 구성(xml, Json 등)
+
+> - 웹 서비스에 필요한 라이브러리(API) 개발
+
+> - 데이터 Import/Export 기능을 제공하여 기존 데이터에 대한 DB화 및 편리한 보고기능 제공
+
+> - WebService 연계방식 사용, AES256로 암호화 된 XML형태로 송수신
+
+> **기여도  : 90%**
 
  체계적인 안전 관리를 위한 서울시 안전 보건 체계 통합 관리 웹 플랫폼
 ====
@@ -114,6 +167,8 @@ featured-img: emile-perron-190221
 
 > - 배포 시스템 개발 환경 구축 (window10 / CentOS / Ubuntu / eGovFrameWork 3.10)
 
+> - 협업 시스템 버전 관리 저장소 툴 사용(SVN)
+
 > - 로그인별 담당자 권한 부여 시스템 개발
 
 > - 표준 API 관리 및 사용자 인터페이스, 데이터베이스 설계 
@@ -125,37 +180,6 @@ featured-img: emile-perron-190221
 > - 시스템 배포를 위한 JEUS 사용
 
 > **기여도  : 50%**
-
-
-
- 재난 현장 중심의 모바일 기반 지능형 재난현장 통합 상황관리 모바일 플랫폼
-====
-
-> **기간 : 2021. 04. 21 - 2025. 12. 31**
-
-> **규모 : 대한민국 행정안전부**
-
-> **기술 스택 :  JAVA, Cordova, Jquery, postgresql**
-
-> **담당 업무**  
-
-> - 배포 시스템 개발 환경 구축 (  eGovFrameWork 4.0 / Cordova 11)
-
-> - 모바일 재난현장 통합 상황관리 등록 시스템 개발
-
-> - Centos 운영 서버 시스템 구축 및 데이터 관리
-
-> - Android 10 , postgresql 15 , tomcat apache  환경 구축
-
-> - 기관별 기 운영중인 상황관리시스템과 데이터 연계 모듈 구축(서비스 인증, Open api)
-
-> - 재난 현장 시스템 DB 구축,  API 방식 등 연계방식에 따른 단위 연계모듈 개발
-
-> - 연계 관리를 위한 연계 대상 시스템 관리, 스케쥴러, 로그, 알림 관리 개발
-
-> - DB 테이블 명세서 작성
-
-> **기여도  : 90%**
 
 SHPtoTXT, TXTtoSHP , 보고서 템플릿
 ======
@@ -170,7 +194,7 @@ SHPtoTXT, TXTtoSHP , 보고서 템플릿
 
 > - SHPtoTXT : .dbf 파일을 .shp 파일로 변환하여 GIS 데이터 구축
 
-> - TXTtoSHP : .shp 파일을 .txt로 변환하여 AutoCAD에서 shape 생성하게끔 개발
+> - TXTtoSHP : .shp 파일을 .txt로 변환하여 AutoCAD에서 shape 생성
 
 > - 보고서 템플릿 : 보고서 양식 별로 DB와 연동하여 보고서 출력 기능 개발
 
