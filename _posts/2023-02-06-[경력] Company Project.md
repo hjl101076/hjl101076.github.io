@@ -9,36 +9,28 @@ featured-img: emile-perron-190221
 
 > **규모 : 대한민국 환경부**
 
-> **기술 스택  :  JAVA, GeoServer, OpenLayer, PostgreSQL**
+> **기술 스택  :  JAVA, GeoServer, OpenLayer, PostgreSQL, LINUX, Jquery**
 
 > **담당 업무**  
-> - 배포 시스템 개발 환경 구축 (eGovFrameWork 3.6 -> 3.10)
-  
-> - 협업 시스템 버전 관리 저장소 툴 사용(SVN, GIT)
-  
-> - 사업 정보에 대한 GIS 데이터 연계 및 표출( Geoserver, openlayers)
+> - 로그인/회원가입 기능 추가(authorization/authentication)
 
-> - 공간 데이터 DB 구축 및 국가 GIS 데이터 가공 ( Postgis, ArcMap)
+> - 협업 시스템 버전 관리 저장소 툴 사용(GIT)
 
-> - 하천 사업 DB 테이블 명세서 구축(oracle, PostgreSQL)
- 
-> - 신규 사용자 계정 암호화 및 관리 시스템 개발
+> - HTTPS SSL 인증서 발급
 
-> - 유저 로그인 인증 및 권한 제어 기능 개발
-  
-> - 파일 업로드 기능 및 평가 결과 시각화
-  
-> - 시스템 배포를 위한 Apache tomcat9 사용
-  
-> - svn을 이용한 프로젝트 버전 관리 시스템 설계/구축
-    
-> - oracle -> PostgreSQL 데이터베이스 변경
+> - GIS 데이터 연계 및 표출( Geoserver, openlayers)
 
-> - 전자정부 프레임워크 3.6 -> 3.10 버전 업그레이드
-  
+> - 구글맵 opne api 활용
+
+> - DB 테이블 명세서 구축(oracle, PostgreSQL)
+
+> - 서버에서 멀티 파일 업로드 기능 추가(spring mvc multipartfile)
+
+> - AWS EC2 클라우드 서비스 배포
+
 > - MPA 방식을 이용한 설계
 
-> **기여도  : 80%**
+> **기여도  : 100%**
 
 
  현장에서 발생하는 재해들을 조사 및 분석하여 지역 주민들의 위험을 최소화하고자 하는 하이브리드 앱 플랫폼 
@@ -48,27 +40,23 @@ featured-img: emile-perron-190221
 
 > **규모 : (주)도화 외 외부 업체 대상**
 
-> **기술스택 :  JAVA, Cordova, GeoServer, OpenLayer,PostGIS, PostgreSQL**
+> **기술스택 :  JAVA, Cordova, GeoServer, Jquery, PostGIS, PostgreSQL**
 
 > **담당업무**
   
 > - GIS 기반 하이브리드 앱 개발 (Cordova)
 
+> - Android Cordova SSL 적용
+
 > - 협업 시스템 버전 관리 저장소 툴 사용(SVN)
-  
-> - 배치 파일로 개발,운영 서버를 나누어 시스템 백업 및 복원 관리
-  
-> - 모바일 및 웹 신규 gis 데이터 추가 기능 개발  (Postgis, Geoserver, openlayers)
-   
-> - GIS 데이터 구축 및 CAD GIS 데이터 가공( ArcMap, QGIS) 
-  
-> - 1만건의 재해 정보 처리 기능 및 DB 구축(PostgreSQL)
-  
-> - 로그인 정보에 따른 지역별 권한 제어 기능 개발
-  
+
+> - 카메라, 위치 및 파일 접근 기능 추가
+
+> - 실시간 대용량 재해 정보 처리 기능 및 DB 구축(PostgreSQL,Postgis)
+
+> - 로그인 권한 제어 기능 개발
+
 > - SPA 방식을 이용한 설계
-  
-> - Cordova 10 -> Cordova 11 버전 및 성능 개선
 
 > **기여도  : 60%**
 
@@ -85,17 +73,15 @@ featured-img: emile-perron-190221
 
 > - GIS 기반 통합 관리 시스템 개발 - 영상처리, 실시간 알람, 공간 정보관리 모듈
 
-> - 협업 시스템 버전 관리 저장소 툴 사용(GIT)
+> - 실시간 알림(MMS,파노라마,이미지,CCTV) 표출 
 
 > - 자료 수집 관리(데이터 백업, 연계 모듈) SFTP C/S 프로그램 개발 (window <==> linux 상호작용 프로그램, python 모듈 구동) 
 
 > - API 모듈 관리(curl) - 서비스 인증, 데이터, 지도 및 open API 관리
 
-> - 하이브리드 앱(Cordova), 웹, API 연동 및 실시간 데이터(MMS,파노라마,이미지,CCTV) 표출
-
-> - 위성 데이터 분석 결과(geojson) overlay 및 지도 서비스 표출( Geoserver, openlayers,JSON)
-
-> - SPA 방식을 이용한 설계
+> - 협업 시스템 버전 관리 저장소 툴 사용(GIT)
+ 
+> - 위성 데이터 분석 결과(geojson) 및 지도맵 오픈 api 활용
 
 > **기여도  : 60%**
 
@@ -107,11 +93,11 @@ featured-img: emile-perron-190221
 
 > **규모 : 대한민국 행정안전부**
 
-> **기술 스택 :  JAVA, Cordova, Jquery, postgresql**
+> **기술 스택 :  JAVA, Cordova, Jquery, postgresql, LINUX, flutter**
 
 > **담당 업무**  
 
-> - 모바일 재난현장 통합 상황관리 등록 시스템 개발
+> - 클라우드 서비스AWS EC2 배포
 
 > - 협업 시스템 버전 관리 저장소 툴 사용(GIT)
 
@@ -136,7 +122,7 @@ featured-img: emile-perron-190221
 
 > **규모 : 대한민국 수자원공사**
 
-> **기술 스택 :  JAVA, GIS, postgresql**
+> **기술 스택 :  JAVA, GIS, postgresql, Jquery**
 
 > **담당 업무**  
 
@@ -161,11 +147,11 @@ featured-img: emile-perron-190221
 
 > **규모 : 대한민국 서울특별시**
 
-> **기술 스택  : JAVA, ORACLE**
+> **기술 스택  : JAVA, ORACLE, Jquery**
 
 > **담당 업무**  
 
-> - 배포 시스템 개발 환경 구축 (window10 / CentOS / Ubuntu / eGovFrameWork 3.10)
+> - 배포 시스템 개발 환경 구축 (window10 / Ubuntu / eGovFrameWork 3.10)
 
 > - 협업 시스템 버전 관리 저장소 툴 사용(SVN)
 

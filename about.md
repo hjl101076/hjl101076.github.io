@@ -18,13 +18,14 @@ permalink: /about/
 </ul>
 <h3>2020~현재 : 공공 SI 통합 시스템 개발</h3>
 <ul>
-            <li><strong>GIS 기반 웹 솔류션 및 하이브리드 앱(Cordova) 개발</strong></li>
-            <li><strong>공공기관 및 행정기관 SI/SM 프로젝트 수행(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) </strong></li>
-            <li>공공 SI 및 연구과제 수행</li>
-            <li>Window, Linux 및 eGovFrameWork, Spring Boot 운영</li>
-            <li>Restful API 시스템 개발 및 운영</li>
-            <li>RDBMS(PostgreSQL,Oracle,MariaDB) 운영</li>
-            <li>SVN,GIT 버전 및 Maven,Gradle 프로젝트 관리</li>
+            <li><strong>1.공공기관 및 행정기관 SI/SM 프로젝트 수행(서울특별시청, 대한민국 환경부, 국토교통부, 한국수자원공사) </strong></li>
+        <li> 2. 하이브리드 앱 및 네이티브 앱 개발(Cordova, flutter, React)</li>
+<li>3. 클라우드 기반 AWS EC2 호스팅 경험</li>
+<li>4. Restful API 시스템 개발 및 운영</li>
+<li>5. eGovFrameWork, Spring Boot을 활용한 웹,앱 서비스 및 GIS 기반 개발</li>
+<li>6.  RDBMS(PostgreSQL, Oracle, MariaDB, MySQL) 운영	</li>
+<li>7. SVN, GIT 협업 도구 사용 및 Maven,Gradle 프로젝트 관리</li>
+<li>8. Apache Tomcat, Jeus 서비스 배포 경험</li>
            
 </ul>
 
@@ -40,13 +41,13 @@ permalink: /about/
 </ul>
 <h3>WAS</h3> 
 <ul>
- <li>Apache Tomcat, JEUS</li>
+ <li>Tomcat, JEUS</li>
 </ul>  
 <h3>LIBRARY & TOOL</h3>
 <ul>  
 <li><strong>eGovFrameWork, Spring-Boot</strong></li>
 <li>JQuery, node.js,  PHP, JSTL, Bootstrap, Ibatis, Thymeleaf</li>
-<li>Cordova, Flutter</li>
+<li>Cordova, Flutter , React</li>
 <li>GeoServer, OpenLayer, PostGIS</li> 
 <li>Maven, Gradle</li> 
 <li>SVN,GIT</li>
