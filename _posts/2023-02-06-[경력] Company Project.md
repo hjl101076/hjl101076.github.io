@@ -16,13 +16,17 @@ featured-img: emile-perron-190221
 
 > - 협업 시스템 버전 관리 저장소 툴 사용(GIT)
 
+> - XML 기반 properties 데이터베이스 상호 작용
+
+> - SPRING MVC를 이용한 Restful api 프레임 워크 사용
+
 > - HTTPS SSL 인증서 발급
 
 > - GIS 데이터 연계 및 표출( Geoserver, openlayers)
 
 > - 구글맵 opne api 활용
 
-> - DB 테이블 명세서 구축(oracle, PostgreSQL)
+> - DB 테이블 명세서 구축 (oracle, PostgreSQL)
 
 > - 서버에서 멀티 파일 업로드 기능 추가(spring mvc multipartfile)
 
