@@ -22,6 +22,7 @@ permalink: /about/
         <li>하이브리드 앱 및 네이티브 앱 개발(Cordova, flutter, React)</li>
 <li>클라우드 기반 AWS EC2 호스팅 경험</li>
 <li>Restful API 시스템 개발 및 운영</li>
+<li>프레임워크를 통한 MSA 적용 경험</li>
 <li>eGovFrameWork, Spring Boot, Express를 활용한 웹,앱 서비스 및 GIS 기반 개발</li>
 <li>RDBMS(PostgreSQL, Oracle, MariaDB, MySQL) 운영	</li>
 <li>SVN, GIT 협업 도구 사용 및 Maven,Gradle 프로젝트 관리</li>
