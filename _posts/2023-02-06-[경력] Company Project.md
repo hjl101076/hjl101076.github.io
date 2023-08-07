@@ -98,7 +98,7 @@ featured-img: emile-perron-190221
 
 > **규모 : 대한민국 행정안전부**
 
-> **기술 스택 :  JAVA, Cordova, Jquery, postgresql, LINUX, flutter**
+> **기술 스택 :  JAVA, Cordova, Jquery, postgresql, LINUX**
 
 > **담당 업무**  
 
